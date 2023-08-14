@@ -1,0 +1,953 @@
+idhh,idindividual,casecat,casexp,sex,age,anymalpos,agecat,travel,waterbodytype,livestockpres,larvaepos,adultpos,adultpos_2,stephpos,spray,site,pfqden,pfqpos,eave,repellent,irs,llininhouse,dist_artificial_cont,micpos,rdtpos
+DDIC-001,DDIC-001-F04,Index family,Case,Female,60,Negative,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,629,Negative,Negative
+DDIC-001,DDIC-001-F01,Index,Case,Male,14,Positive,5 - 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,228660,Positive,closed,Yes,No,Yes,234,Positive,Positive
+DDIC-001,DDIC-001-F03,Index family,Case,Male,44,Negative,Above 15 Years,Yes,river,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,234,Negative,Negative
+DDIC-001,DDIC-001-F08,Index family,Case,Female,35,Negative,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,3990,Negative,Negative
+DDIC-001,DDIC-001-F02,Index family,Case,Female,10,Negative,5 - 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,234,Negative,Negative
+DDIC-001,DDIC-001-F06,Index family,Case,Female,23,Positive,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,1882,Positive,closed,Yes,No,Yes,629,Negative,Negative
+DDIC-001,DDIC-001-F05,Index family,Case,Male,4,Negative,Under 5,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,629,Negative,Negative
+DDIC-001,DDIC-001-F07,Index family,Case,Male,15,Negative,5 - 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,3990,Negative,Negative
+DDIC-001-C1,DDIC-001-C1-F02,Control family,Control,Female,38,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,143,Negative,Negative
+DDIC-001-C1,DDIC-001-C1-F05,Control family,Control,Male,5,Negative,Under 5,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,143,Negative,Negative
+DDIC-001-C1,DDIC-001-C1-F04,Control family,Control,Female,13,Negative,5 - 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,143,Negative,Negative
+DDIC-001-C1,DDIC-001-C1-F06,Control family,Control,Female,39,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,143,Negative,Negative
+DDIC-001-C1,DDIC-001-C1-F01,Control,Control,Male,15,Negative,5 - 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,143,Negative,Negative
+DDIC-001-C1,DDIC-001-C1-F03,Control family,Control,Male,40,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,143,Negative,Negative
+DDIC-001-C2,DDIC-001-C2-F03,Control family,Control,Male,17,Positive,Above 15 Years,Yes,stream,No,Negative,Negative,Negative,Negative,No,DD City,3266777,Positive,,Yes,No,No,234,Positive,Positive
+DDIC-001-C2,DDIC-001-C2-F02,Control family,Control,Female,32,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,,Yes,No,No,143,Negative,Negative
+DDIC-001-C2,DDIC-001-C2-F01,Control,Control,Male,13,Negative,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,,Yes,No,No,143,Negative,Negative
+DDIC-001-C3,DDIC-001-C3-F02,Control family,Control,Male,33,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,234,Negative,Negative
+DDIC-001-C3,DDIC-001-C3-F01,Control,Control,Male,11,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,234,Negative,Negative
+DDIC-002,DDIC-002-F03,Index family,Case,Female,6,Positive,5 - 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,1084541,Positive,closed,No,No,Yes,722,Positive,Positive
+DDIC-002,DDIC-002-F02,Index family,Case,Female,27,Positive,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,24770,Positive,closed,No,No,Yes,722,Negative,Negative
+DDIC-002,DDIC-002-F04,Index family,Case,Male,5,Positive,Under 5,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,92220,Positive,closed,No,No,Yes,722,Negative,Negative
+DDIC-002,DDIC-002-F01,Index,Case,Male,36,Positive,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,640436,Positive,closed,No,No,Yes,722,Positive,Positive
+DDIC-002-C1,DDIC-002-C1-F02,Control family,Control,Female,35,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,537,Negative,Negative
+DDIC-002-C1,DDIC-002-C1-F01,Control,Control,Male,34,Negative,Above 15 Years,Yes,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,537,Negative,Negative
+DDIC-002-C1,DDIC-002-C1-F03,Control family,Control,Male,25,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,537,Negative,Negative
+DDIC-002-C2,DDIC-002-C2-F01,Control,Control,Male,38,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,537,Negative,Negative
+DDIC-002-C2,DDIC-002-C2-F03,Control family,Control,Female,19,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,536,Negative,Negative
+DDIC-002-C2,DDIC-002-C2-F02,Control family,Control,Female,25,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,536,Negative,Negative
+DDIC-002-C2,DDIC-002-C2-F04,Control family,Control,Female,21,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,536,Negative,Negative
+DDIC-003,DDIC-003-F05,Index family,Case,Male,3,Positive,Under 5,No,river,No,Negative,Negative,Negative,Negative,No,DD City,514,Positive,closed,No,No,Yes,616,Negative,Negative
+DDIC-003,DDIC-003-F07,Index family,Case,Female,2,Positive,Under 5,No,river,No,Negative,Negative,Negative,Negative,No,DD City,22136,Positive,closed,No,No,Yes,616,Negative,Negative
+DDIC-003,DDIC-003-F06,Index family,Case,Female,25,Positive,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,864,Positive,closed,No,No,Yes,616,Negative,Negative
+DDIC-003,DDIC-003-F01,Index,Case,Male,27,Positive,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,1405797,Positive,closed,No,No,Yes,222,Positive,Positive
+DDIC-003,DDIC-003-F04,Index family,Case,Female,16,Positive,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,165327,Positive,closed,No,No,Yes,616,Positive,Positive
+DDIC-003,DDIC-003-F03,Index family,Case,Male,7,Positive,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,15000,Positive,closed,No,No,Yes,487,Negative,Positive
+DDIC-003,DDIC-003-F02,Index family,Case,Male,18,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,222,Negative,Negative
+DDIC-003-C1,DDIC-003-C1-F02,Control family,Control,Female,25,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,169,Negative,Negative
+DDIC-003-C1,DDIC-003-C1-F01,Control,Control,Male,25,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,169,Negative,Negative
+DDIC-003-C1,DDIC-003-C1-F03,Control family,Control,Male,1,Negative,Under 5,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,169,Negative,Negative
+DDIC-003-C2,DDIC-003-C2-F01,Control,Control,Female,25,Negative,Above 15 Years,Yes,stream,No,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,Yes,No,Yes,169,Negative,Negative
+DDIC-003-C3,DDIC-003-C3-F01,Control,Control,Male,30,Negative,Above 15 Years,Yes,stream,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,169,Negative,Negative
+DDIC-003-C3,DDIC-003-C3-F03,Control family,Control,Male,3,Negative,Under 5,No,stream,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,169,Negative,Negative
+DDIC-003-C3,DDIC-003-C3-F02,Control family,Control,Female,27,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,169,Negative,Negative
+DDIC-003-C3,DDIC-003-C3-F04,Control family,Control,Female,8,,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,Yes,DD City,,,closed,Yes,No,Yes,222,Negative,Negative
+DDIC-004,DDIC-004-F02,Index family,Case,Female,20,Positive,Above 15 Years,No,,No,Positive,Negative,Negative,Positive,No,DD City,2440,Positive,,Yes,No,Yes,608,Negative,Negative
+DDIC-004,DDIC-004-F01,Index,Case,Male,30,Positive,Above 15 Years,No,,No,Positive,Negative,Negative,Positive,No,DD City,7461144,Positive,,Yes,No,Yes,608,Positive,Positive
+DDIC-004-C1,DDIC-004-C1-F02,Control family,Control,Female,27,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,,Negative,Negative
+DDIC-004-C1,DDIC-004-C1-F03,Control family,Control,Female,2,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,519,Negative,Negative
+DDIC-004-C1,DDIC-004-C1-F01,Control,Control,Male,27,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,,Negative,Negative
+DDIC-004-C1,DDIC-004-C1-F04,Control family,Control,Female,15,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,519,Negative,Negative
+DDIC-004-C2,DDIC-004-C2-F05,Control family,Control,Female,13,Negative,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,,Yes,194,Negative,Negative
+DDIC-004-C2,DDIC-004-C2-F01,Control,Control,Male,35,Positive,Above 15 Years,Yes,stream,No,Negative,Negative,Negative,Negative,No,DD City,1822210,Positive,closed,Yes,,Yes,519,Positive,Negative
+DDIC-004-C2,DDIC-004-C2-F02,Control family,Control,Female,30,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,,Yes,519,Negative,Negative
+DDIC-004-C2,DDIC-004-C2-F04,Control family,Control,Male,1,Negative,Under 5,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,,Yes,194,Negative,Negative
+DDIC-004-C2,DDIC-004-C2-F03,Control family,Control,Female,5,Negative,Under 5,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,,Yes,194,Negative,Negative
+DDIC-004-C3,DDIC-004-C3-F03,Control family,Control,Female,16,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,,No,No,No,608,Negative,Negative
+DDIC-004-C3,DDIC-004-C3-F01,Control,Control,Male,30,Negative,Above 15 Years,Yes,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,,No,No,No,194,Negative,Negative
+DDIC-004-C3,DDIC-004-C3-F02,Control family,Control,Female,48,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,,No,No,No,194,Negative,Negative
+DDIC-005,DDIC-005-F05,Index family,Case,Female,40,Negative,Above 15 Years,No,stream,No,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,Yes,660,Negative,Negative
+DDIC-005,DDIC-005-F01,Index,Case,Female,45,Positive,Above 15 Years,No,stream,No,Positive,Negative,Negative,Positive,No,DD City,5144021,Positive,closed,No,No,Yes,232,Positive,Positive
+DDIC-005,DDIC-005-F03,Index family,Case,Female,18,Positive,Above 15 Years,No,stream,No,Positive,Negative,Negative,Positive,No,DD City,6050,Positive,closed,No,No,Yes,232,Negative,Negative
+DDIC-005,DDIC-005-F04,Index family,Case,Female,21,Negative,Above 15 Years,No,stream,No,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,Yes,232,Negative,Negative
+DDIC-005,DDIC-005-F02,Index family,Case,Female,21,Positive,Above 15 Years,No,stream,No,Positive,Negative,Negative,Positive,No,DD City,372,Positive,closed,No,No,Yes,232,Negative,Negative
+DDIC-005-C1,DDIC-005-C1-F01,Control,Control,Female,48,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,457,Negative,Negative
+DDIC-005-C2,DDIC-005-C2-F03,Control family,Control,Male,28,Negative,Above 15 Years,No,stream,No,Positive,Negative,Negative,Positive,Yes,DD City,0,Negative,closed,No,No,Yes,457,Negative,Negative
+DDIC-005-C2,DDIC-005-C2-F02,Control family,Control,Female,31,Negative,Above 15 Years,No,stream,No,Positive,Negative,Negative,Positive,Yes,DD City,0,Negative,closed,No,No,Yes,457,Negative,Negative
+DDIC-005-C2,DDIC-005-C2-F01,Control,Control,Female,34,Negative,Above 15 Years,No,stream,No,Positive,Negative,Negative,Positive,Yes,DD City,0,Negative,closed,No,No,Yes,457,Negative,Negative
+DDIC-005-C2,DDIC-005-C2-F04,Control family,Control,Male,7,Negative,5 - 15 Years,No,stream,No,Positive,Negative,Negative,Positive,Yes,DD City,0,Negative,closed,No,No,Yes,457,Negative,Negative
+DDIC-005-C3,DDIC-005-C3-F01,Control,Control,Female,35,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,,No,No,494,Negative,Negative
+DDIC-006,DDIC-006-F05,Index family,Case,Female,17,Positive,Above 15 Years,No,,Yes,Positive,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,Yes,DD City,11572,Positive,closed,,No,No,45,Negative,Negative
+DDIC-006,DDIC-006-F02,Index family,Case,Male,33,Negative,Above 15 Years,No,,Yes,Positive,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,Yes,DD City,0,Negative,closed,,No,No,210,Negative,Negative
+DDIC-006,DDIC-006-F04,Index family,Case,Female,4,Positive,Under 5,No,,Yes,Positive,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,Yes,DD City,604958,Positive,closed,,No,No,45,Positive,Positive
+DDIC-006,DDIC-006-F03,Index family,Case,Male,9,Positive,5 - 15 Years,No,,Yes,Positive,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,Yes,DD City,81000,Positive,closed,,No,No,45,Negative,Positive
+DDIC-006,DDIC-006-F06,Index family,Case,Female,24,Negative,Above 15 Years,No,,Yes,Positive,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,Yes,DD City,0,Negative,closed,,No,No,646,Negative,Negative
+DDIC-006,DDIC-006-F01,Index,Case,Female,32,Positive,Above 15 Years,No,,Yes,Positive,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,Yes,DD City,2820137,Positive,closed,,No,No,233,Positive,Positive
+DDIC-006-C1,DDIC-006-C1-F01,Control,Control,Female,32,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,233,Negative,Negative
+DDIC-006-C2,DDIC-006-C2-F03,Control family,Control,Female,1,Negative,Under 5,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,233,Negative,Negative
+DDIC-006-C2,DDIC-006-C2-F02,Control family,Control,Female,19,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,233,Negative,Negative
+DDIC-006-C2,DDIC-006-C2-F01,Control,Control,Female,29,Negative,Above 15 Years,Yes,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,233,Negative,Negative
+DDIC-006-C3,DDIC-006-C3-F01,Control,Control,Female,45,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,233,Negative,Negative
+DDIC-007,DDIC-007-F03,Index family,Case,Male,18,Negative,Above 15 Years,Yes,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,510,Negative,Negative
+DDIC-007,DDIC-007-F01,Index,Case,Male,14,Positive,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,3009119,Positive,closed,No,No,Yes,510,Positive,Positive
+DDIC-007,DDIC-007-F02,Index family,Case,Female,72,Negative,Above 15 Years,Yes,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,510,Negative,Negative
+DDIC-007-C1,DDIC-007-C1-F02,Control family,Control,Male,5,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,175,Negative,Negative
+DDIC-007-C1,DDIC-007-C1-F03,Control family,Control,Female,35,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,175,Negative,Negative
+DDIC-007-C1,DDIC-007-C1-F04,Control family,Control,Male,45,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,356,Negative,Negative
+DDIC-007-C1,DDIC-007-C1-F01,Control,Control,Male,6,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,175,Negative,Negative
+DDIC-007-C2,DDIC-007-C2-F03,Control family,Control,Male,17,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,356,Negative,Negative
+DDIC-007-C2,DDIC-007-C2-F02,Control family,Control,Male,16,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,356,Negative,Negative
+DDIC-007-C2,DDIC-007-C2-F04,Control family,Control,Female,43,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,672,Negative,Negative
+DDIC-007-C2,DDIC-007-C2-F01,Control,Control,Male,7,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,356,Negative,Negative
+DDIC-007-C3,DDIC-007-C3-F03,Control family,Control,Female,18,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,672,Negative,Negative
+DDIC-007-C3,DDIC-007-C3-F04,Control family,Control,Male,48,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,510,Negative,Negative
+DDIC-007-C3,DDIC-007-C3-F02,Control family,Control,Female,34,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,672,Negative,Negative
+DDIC-007-C3,DDIC-007-C3-F01,Control,Control,Male,13,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,672,Negative,Negative
+DDIC-008,DDIC-008-F04,Index family,Case,Female,1,Negative,Under 5,No,stream,Yes,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,Yes,354,Negative,Negative
+DDIC-008,DDIC-008-F01,Index,Case,Male,35,Positive,Above 15 Years,No,stream,Yes,Positive,Negative,Negative,Positive,No,DD City,2643024,Positive,closed,No,No,Yes,698,Positive,Positive
+DDIC-008,DDIC-008-F03,Index family,Case,Female,1,Negative,Under 5,No,stream,Yes,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,Yes,354,Negative,Negative
+DDIC-008,DDIC-008-F02,Index family,Case,Female,30,Negative,Above 15 Years,No,stream,Yes,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,Yes,698,Negative,Negative
+DDIC-008-C1,DDIC-008-C1-F01,Control,Control,Male,25,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,746,Negative,Negative
+DDIC-008-C2,DDIC-008-C2-F02,Index family,Case,Female,30,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,Yes,746,Negative,Negative
+DDIC-008-C2,DDIC-008-C2-F01,Index,Case,Male,46,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,566964,Positive,opened,No,No,Yes,746,Positive,Positive
+DDIC-008-C3,DDIC-008-C3-F01,Control,Control,Male,25,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,746,Negative,Negative
+DDIC-008-C3,DDIC-008-C3-F02,Control family,Control,Female,19,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,158,Negative,Negative
+DDIC-009,DDIC-009-F01,Index,Case,Male,8,Positive,5 - 15 Years,No,stream,Yes,Positive,Negative,Negative,Positive,No,DD City,778007,Positive,closed,Yes,No,No,257,Positive,Positive
+DDIC-009,DDIC-009-F05,Index family,Case,Female,8,Positive,5 - 15 Years,No,stream,Yes,Positive,Negative,Negative,Positive,No,DD City,531358,Positive,closed,Yes,No,No,893,Positive,Positive
+DDIC-009,DDIC-009-F02,Index family,Case,Male,40,Positive,Above 15 Years,No,stream,Yes,Positive,Negative,Negative,Positive,No,DD City,4161831,Positive,closed,Yes,No,No,257,Positive,Positive
+DDIC-009,DDIC-009-F06,Index family,Case,Male,8,Negative,5 - 15 Years,No,stream,Yes,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,Yes,No,No,893,Negative,Negative
+DDIC-009,DDIC-009-F04,Index family,Case,Male,17,Positive,Above 15 Years,No,stream,Yes,Positive,Negative,Negative,Positive,No,DD City,316253,Positive,closed,Yes,No,No,257,Positive,Positive
+DDIC-009,DDIC-009-F03,Index family,Case,Female,45,Positive,Above 15 Years,No,stream,Yes,Positive,Negative,Negative,Positive,No,DD City,185000,Positive,closed,Yes,No,No,257,Negative,Negative
+DDIC-009-C1,DDIC-009-C1-F03,Control family,Control,Female,25,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,,Yes,No,161,Negative,Negative
+DDIC-009-C1,DDIC-009-C1-F02,Control family,Control,Male,32,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,,Yes,No,161,Negative,Negative
+DDIC-009-C1,DDIC-009-C1-F01,Control,Control,Male,10,Negative,5 - 15 Years,,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,,Yes,No,161,Negative,Negative
+DDIC-009-C2,DDIC-009-C2-F02,Control family,Control,Female,24,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,161,Negative,Negative
+DDIC-009-C2,DDIC-009-C2-F06,Control family,Control,Female,11,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,462,Negative,Negative
+DDIC-009-C2,DDIC-009-C2-F04,Control family,Control,Female,40,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,462,Negative,Negative
+DDIC-009-C2,DDIC-009-C2-F03,Control family,Control,Male,2,Negative,Under 5,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,161,Negative,Negative
+DDIC-009-C2,DDIC-009-C2-F01,Control,Control,Male,6,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,161,Negative,Negative
+DDIC-009-C2,DDIC-009-C2-F05,Control family,Control,Female,11,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,462,Negative,Negative
+DDIC-009-C2,DDIC-009-C2-F07,Control family,Control,Female,11,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,257,Negative,Negative
+DDIC-009-C3,DDIC-009-C3-F02,Control family,Control,Female,29,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,No,257,Negative,Negative
+DDIC-009-C3,DDIC-009-C3-F01,Control,Control,Male,10,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,No,257,Negative,Negative
+DDIC-010,DDIC-010-F03,Index family,Case,Male,9,Negative,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,389,Negative,Negative
+DDIC-010,DDIC-010-F01,Index,Case,Male,35,Positive,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,1790966,Positive,closed,No,No,No,389,Negative,Positive
+DDIC-010,DDIC-010-F02,Index family,Case,Male,28,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,389,Negative,Negative
+DDIC-010,DDIC-010-F04,Index family,Case,Male,5,Negative,Under 5,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,389,Negative,Negative
+DDIC-010-C1,DDIC-010-C1-F01,Control,Control,Male,21,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,193,Negative,Negative
+DDIC-010-C2,DDIC-010-C2-F05,Control family,Control,Female,15,Negative,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,409,Negative,Negative
+DDIC-010-C2,DDIC-010-C2-F02,Control family,Control,Female,30,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,193,Negative,Negative
+DDIC-010-C2,DDIC-010-C2-F01,Control,Control,Male,31,,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,,,closed,No,No,Yes,193,,Negative
+DDIC-010-C2,DDIC-010-C2-F03,Control family,Control,Male,4,Negative,Under 5,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,193,Negative,Negative
+DDIC-010-C2,DDIC-010-C2-F06,Control family,Control,Female,16,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,409,Negative,Negative
+DDIC-010-C2,DDIC-010-C2-F04,Control family,Control,Male,3,Negative,Under 5,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,,Negative,Negative
+DDIC-010-C3,DDIC-010-C3-F01,Control,Control,Male,41,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,No,No,Yes,409,Negative,Negative
+DDIC-010-C3,DDIC-010-C3-F03,Control family,Control,Female,11,Negative,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,No,No,Yes,409,Negative,Negative
+DDIC-010-C3,DDIC-010-C3-F04,Control family,Control,Female,30,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,No,No,Yes,409,Negative,Negative
+DDIC-010-C3,DDIC-010-C3-F02,Control family,Control,Male,6,Negative,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,No,No,Yes,409,Negative,Negative
+DDIC-011,DDIC-011-F01,Index,Case,Male,15,Positive,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,2820137,Positive,,No,No,No,145,Positive,Positive
+DDIC-011,DDIC-011-F02,Index family,Case,Male,48,Positive,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,1822210,Positive,,No,No,No,145,Positive,Positive
+DDIC-011-C1,DDIC-011-C1-F03,Control family,Control,Female,35,Negative,Above 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,Yes,201,Negative,Negative
+DDIC-011-C1,DDIC-011-C1-F02,Control family,Control,Male,42,Negative,Above 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,Yes,819,Negative,Negative
+DDIC-011-C1,DDIC-011-C1-F04,Control family,Control,Male,14,Negative,5 - 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,Yes,201,Negative,Negative
+DDIC-011-C1,DDIC-011-C1-F01,Control,Control,Male,6,Negative,5 - 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,Yes,819,Negative,Negative
+DDIC-011-C2,DDIC-011-C2-F01,Control,Control,Male,5,Negative,Under 5,No,pond,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,No,No,No,201,Negative,Negative
+DDIC-011-C2,DDIC-011-C2-F03,Control family,Control,Female,2,Negative,Under 5,No,pond,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,No,No,No,202,Negative,Negative
+DDIC-011-C2,DDIC-011-C2-F05,Control family,Control,Male,6,Negative,5 - 15 Years,No,pond,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,No,No,No,202,Negative,Negative
+DDIC-011-C2,DDIC-011-C2-F02,Control family,Control,Female,28,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,No,No,No,201,Negative,Negative
+DDIC-011-C2,DDIC-011-C2-F04,Control family,Control,Male,40,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,No,No,No,202,Negative,Negative
+DDIC-011-C2,DDIC-011-C2-F06,Control family,Control,Female,17,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,No,No,No,202,Negative,Negative
+DDIC-011-C3,DDIC-011-C3-F03,Control family,Control,Male,3,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,145,Negative,Negative
+DDIC-011-C3,DDIC-011-C3-F04,Control family,Control,Female,32,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,145,Negative,Negative
+DDIC-011-C3,DDIC-011-C3-F02,Control family,Control,Male,32,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,202,Negative,Negative
+DDIC-011-C3,DDIC-011-C3-F01,Control,Control,Male,5,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,Yes,202,Negative,Negative
+DDIC-012,DDIC-012-F02,Index family,Case,Female,30,Negative,Above 15 Years,No,stream,,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,No,101,Negative,Negative
+DDIC-012,DDIC-012-F01,Index,Case,Male,7,Positive,5 - 15 Years,No,stream,,Positive,Negative,Negative,Positive,No,DD City,594585,Positive,closed,No,No,No,101,Positive,Positive
+DDIC-012-C1,DDIC-012-C1-F03,Control family,Control,Male,37,Negative,Above 15 Years,No,,Yes,Negative,Outdoor An. stephensi and/or Ae. aegypti,Positive,Negative,No,DD City,0,Negative,closed,No,No,Yes,101,Negative,Negative
+DDIC-012-C1,DDIC-012-C1-F02,Control family,Control,Female,30,Negative,Above 15 Years,No,,Yes,Negative,Outdoor An. stephensi and/or Ae. aegypti,Positive,Negative,No,DD City,0,Negative,closed,No,No,Yes,622,Negative,Negative
+DDIC-012-C1,DDIC-012-C1-F01,Control,Control,Male,7,Negative,5 - 15 Years,No,,Yes,Negative,Outdoor An. stephensi and/or Ae. aegypti,Positive,Negative,No,DD City,0,Negative,closed,No,No,Yes,622,Negative,Negative
+DDIC-013,DDIC-013-F02,Index family,Case,Male,15,Negative,5 - 15 Years,Yes,stream,No,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,Yes,No,No,1370,Negative,Negative
+DDIC-013,DDIC-013-F03,Index family,Case,Male,20,Negative,Above 15 Years,Yes,stream,No,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,Yes,No,No,1370,Negative,Negative
+DDIC-013,DDIC-013-F01,Index,Case,Male,18,Positive,Above 15 Years,Yes,stream,No,Positive,Negative,Negative,Positive,No,DD City,9063852,Positive,closed,Yes,No,No,,Positive,Positive
+DDIC-013-C1,DDIC-013-C1-F04,Control family,Control,Female,55,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,335,Negative,Negative
+DDIC-013-C1,DDIC-013-C1-F01,Control,Control,Male,18,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,508,Negative,Negative
+DDIC-013-C1,DDIC-013-C1-F02,Control family,Control,Male,60,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,508,Negative,Negative
+DDIC-013-C1,DDIC-013-C1-F05,Control family,Control,Female,22,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,335,Negative,Negative
+DDIC-013-C1,DDIC-013-C1-F03,Control family,Control,Female,50,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,508,Negative,Negative
+DDIC-013-C2,DDIC-013-C2-F04,Control family,Control,Male,12,Negative,5 - 15 Years,No,other,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,,Negative,Negative
+DDIC-013-C2,DDIC-013-C2-F02,Control family,Control,Female,40,Negative,Above 15 Years,No,other,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,335,Negative,Negative
+DDIC-013-C2,DDIC-013-C2-F01,Control,Control,Male,52,Negative,Above 15 Years,No,other,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,335,Negative,Negative
+DDIC-013-C2,DDIC-013-C2-F03,Control family,Control,Female,16,Negative,Above 15 Years,No,other,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,335,Negative,Negative
+DDIC-013-C3,DDIC-013-C3-F02,Control family,Control,Female,18,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,No,,Negative,Negative
+DDIC-013-C3,DDIC-013-C3-F01,Control,Control,Male,20,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,No,,Negative,Negative
+DDIC-014,DDIC-014-F03,Index family,Case,Female,22,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,213,Negative,Negative
+DDIC-014,DDIC-014-F01,Index,Case,Male,20,Positive,Above 15 Years,Yes,,,Negative,Negative,Negative,Negative,,DD City,53135752,Positive,,,,,213,Positive,Positive
+DDIC-014,DDIC-014-F04,Index family,Case,Female,18,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,,Negative,Negative
+DDIC-014,DDIC-014-F02,Index family,Case,Male,22,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,213,Negative,Negative
+DDIC-014-C1,DDIC-014-C1-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,,Negative,Negative
+DDIC-014-C1,DDIC-014-C1-F01,Control,Control,Male,20,Positive,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,,Negative,Positive
+DDIC-014-C2,DDIC-014-C2-F02,Control family,Control,Male,10,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,,Yes,No,No,,Negative,Negative
+DDIC-014-C2,DDIC-014-C2-F03,Control family,Control,Female,30,Positive,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,667,Positive,,Yes,No,No,,Negative,Negative
+DDIC-014-C2,DDIC-014-C2-F01,Control,Control,Male,35,Positive,Above 15 Years,Yes,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,,Yes,No,No,,Negative,Negative
+DDIC-014-C3,DDIC-014-C3-F01,Control,Control,Male,20,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,,Negative,Negative
+DDIC-015,DDIC-015-F04,Index family,Case,Male,27,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,257,Negative,Negative
+DDIC-015,DDIC-015-F02,Index family,Case,Female,68,Positive,Above 15 Years,Yes,,Yes,Negative,Negative,Negative,Negative,No,DD City,667,Positive,closed,No,No,No,257,Negative,Negative
+DDIC-015,DDIC-015-F01,Index,Case,Female,28,Positive,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,1707770,Positive,closed,No,No,No,,Positive,Positive
+DDIC-015,DDIC-015-F03,Index family,Case,Male,55,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,257,Negative,Negative
+DDIC-015-C1,DDIC-015-C1-F01,Control,Control,Female,22,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,No,116,Negative,Negative
+DDIC-015-C1,DDIC-015-C1-F02,Control family,Control,Male,23,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,No,116,Negative,Negative
+DDIC-015-C2,DDIC-015-C2-F02,Control family,Control,Male,46,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,116,Negative,Negative
+DDIC-015-C2,DDIC-015-C2-F01,Control,Control,Female,30,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,116,Negative,Negative
+DDIC-015-C3,DDIC-015-C3-F03,Control family,Control,Male,1,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,,Negative,Negative
+DDIC-015-C3,DDIC-015-C3-F02,Control family,Control,Female,45,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,2929,Negative,Negative
+DDIC-015-C3,DDIC-015-C3-F01,Control,Control,Female,22,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,2929,Negative,Negative
+DDIC-016,DDIC-016-F01,Index,Case,Male,28,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DD City,29639154,Positive,closed,No,No,No,205,Positive,Positive
+DDIC-016-C1,DDIC-016-C1-F04,Control family,Control,Male,6,Negative,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,205,Negative,Negative
+DDIC-016-C1,DDIC-016-C1-F02,Control family,Control,Female,36,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,205,Negative,Negative
+DDIC-016-C1,DDIC-016-C1-F07,Control family,Control,Male,40,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,205,Negative,Negative
+DDIC-016-C1,DDIC-016-C1-F05,Control family,Control,Male,13,Negative,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,205,Negative,Negative
+DDIC-016-C1,DDIC-016-C1-F06,Control family,Control,Female,35,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,205,Negative,Negative
+DDIC-016-C1,DDIC-016-C1-F03,Control family,Control,Male,2,Negative,Under 5,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,205,Negative,Negative
+DDIC-016-C1,DDIC-016-C1-F01,Control,Control,Male,18,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,704,Negative,Negative
+DDIC-017,DDIC-017-F01,Index,Case,Female,6,Positive,5 - 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,1944319,Positive,,,,,186,Positive,Positive
+DDIC-017,DDIC-017-F02,Index family,Case,Female,32,Positive,Above 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,14058,Positive,,,,,186,Negative,Negative
+DDIC-017-C1,DDIC-017-C1-F01,Control,Control,Female,6,Negative,5 - 15 Years,No,stagnant water,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,,Negative,Negative
+DDIC-017-C1,DDIC-017-C1-F02,Control family,Control,Female,26,Negative,Above 15 Years,No,stagnant water,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,,Negative,Negative
+DDIC-017-C2,DDIC-017-C2-F03,Control family,Control,Female,35,Negative,Above 15 Years,No,pond,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,,No,No,Yes,758,Negative,Negative
+DDIC-017-C2,DDIC-017-C2-F04,Control family,Control,Female,17,Negative,Above 15 Years,No,pond,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,,No,No,Yes,758,Negative,Negative
+DDIC-017-C2,DDIC-017-C2-F02,Control family,Control,Male,56,Negative,Above 15 Years,No,pond,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,,No,No,Yes,559,Negative,Negative
+DDIC-017-C2,DDIC-017-C2-F01,Control,Control,Female,5,Negative,Under 5,No,pond,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,,No,No,Yes,559,Negative,Negative
+DDIC-017-C3,DDIC-017-C3-F03,Control family,Control,Female,19,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,Yes,No,No,186,Negative,Negative
+DDIC-017-C3,DDIC-017-C3-F02,Control family,Control,Female,42,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,Yes,No,No,758,Negative,Negative
+DDIC-017-C3,DDIC-017-C3-F01,Control,Control,Female,11,Negative,5 - 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,,Yes,No,No,758,Negative,Negative
+DDIC-018,DDIC-018-F03,Index family,Case,Female,11,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,229,Negative,Negative
+DDIC-018,DDIC-018-F01,Index,Case,Female,50,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,228660,Positive,closed,No,No,Yes,229,Positive,Positive
+DDIC-018,DDIC-018-F02,Index family,Case,Female,18,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,229,Negative,Negative
+DDIC-018-C1,DDIC-018-C1-F01,Control,Control,Female,40,Negative,Above 15 Years,No,stream,,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,571,Negative,Negative
+DDIC-018-C2,DDIC-018-C2-F03,Control family,Control,Male,72,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,315,Negative,Negative
+DDIC-018-C2,DDIC-018-C2-F01,Control,Control,Female,55,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,571,Negative,Negative
+DDIC-018-C2,DDIC-018-C2-F05,Control family,Control,Female,25,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1819,Negative,Negative
+DDIC-018-C2,DDIC-018-C2-F04,Control family,Control,Female,5,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1819,Negative,Negative
+DDIC-018-C2,DDIC-018-C2-F02,Control family,Control,Female,3,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,571,Negative,Negative
+DDIC-018-C3,DDIC-018-C3-F03,Control family,Control,Female,8,Negative,5 - 15 Years,No,,,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1819,Negative,Negative
+DDIC-018-C3,DDIC-018-C3-F02,Control family,Control,Female,4,Negative,Under 5,No,,,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1819,Negative,Negative
+DDIC-018-C3,DDIC-018-C3-F05,Control family,Control,Female,13,Negative,5 - 15 Years,No,,,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,229,Negative,Negative
+DDIC-018-C3,DDIC-018-C3-F01,Control,Control,Female,24,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1819,Negative,Negative
+DDIC-018-C3,DDIC-018-C3-F04,Control family,Control,Female,10,Negative,5 - 15 Years,No,,,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,229,Negative,Negative
+DDIC-019,DDIC-019-F03,Index family,Case,Female,75,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,,Negative,Negative
+DDIC-019,DDIC-019-F01,Index,Case,Male,42,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,81000,Positive,closed,No,No,Yes,126,Positive,Positive
+DDIC-019,DDIC-019-F02,Index family,Case,Female,36,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,566964,Positive,closed,No,No,Yes,126,Negative,Positive
+DDIC-019-C1,DDIC-019-C1-F05,Control family,Control,Male,7,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1668,Negative,Negative
+DDIC-019-C1,DDIC-019-C1-F04,Control family,Control,Male,4,Negative,Under 5,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1668,Negative,Negative
+DDIC-019-C1,DDIC-019-C1-F02,Control family,Control,Female,37,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,122,Negative,Negative
+DDIC-019-C1,DDIC-019-C1-F03,Control family,Control,Male,35,Negative,Above 15 Years,Yes,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,122,Negative,Negative
+DDIC-019-C1,DDIC-019-C1-F01,Control,Control,Male,22,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,122,Negative,Negative
+DDIC-019-C2,DDIC-019-C2-F04,Control family,Control,Female,35,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,126,Negative,Negative
+DDIC-019-C2,DDIC-019-C2-F02,Control family,Control,Female,9,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,1668,Negative,Negative
+DDIC-019-C2,DDIC-019-C2-F01,Control,Control,Male,45,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,1668,Negative,Negative
+DDIC-019-C2,DDIC-019-C2-F03,Control family,Control,Male,15,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,1668,Negative,Negative
+DDIC-019-C3,DDIC-019-C3-F01,Control,Control,Male,44,Negative,Above 15 Years,Yes,stream,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,126,Negative,Negative
+DDIC-020,DDIC-020-F01,Index,Case,Female,32,Positive,Above 15 Years,Yes,river,No,Negative,Negative,Negative,Negative,No,DD City,5488723,Positive,closed,Yes,No,No,844,Positive,Positive
+DDIC-020-C1,DDIC-020-C1-F04,Control family,Control,Female,16,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,844,Negative,Negative
+DDIC-020-C1,DDIC-020-C1-F01,Control,Control,Female,40,Negative,Above 15 Years,Yes,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,561,Negative,Negative
+DDIC-020-C1,DDIC-020-C1-F02,Control family,Control,Female,12,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,844,Negative,Negative
+DDIC-020-C1,DDIC-020-C1-F06,Control family,Control,Male,45,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,844,Negative,Negative
+DDIC-020-C1,DDIC-020-C1-F05,Control family,Control,Female,14,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,844,Negative,Negative
+DDIC-020-C1,DDIC-020-C1-F07,Control family,Control,Male,6,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,844,Negative,Negative
+DDIC-020-C1,DDIC-020-C1-F03,Control family,Control,Female,28,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,844,Negative,Negative
+DDIC-021,DDIC-021-F02,Index family,Case,Female,30,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,653,Negative,Negative
+DDIC-021,DDIC-021-F01,Index,Case,Male,44,Positive,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,1157218,Positive,closed,No,No,No,653,Positive,Positive
+DDIC-021,DDIC-021-F04,Index family,Case,Male,3,Negative,Under 5,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,620,Negative,Negative
+DDIC-021,DDIC-021-F03,Index family,Case,Female,2,Positive,Under 5,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,482,Positive,closed,No,No,No,620,Negative,Negative
+DDIC-021-C1,DDIC-021-C1-F02,Control family,Control,Female,28,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,573,Negative,Negative
+DDIC-021-C1,DDIC-021-C1-F01,Control,Control,Male,38,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,573,Negative,Negative
+DDIC-021-C1,DDIC-021-C1-F03,Control family,Control,Female,1,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,573,Negative,Negative
+DDIC-021-C2,DDIC-021-C2-F01,Control,Control,Male,20,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,573,Negative,Negative
+DDIC-021-C2,DDIC-021-C2-F02,Control family,Control,Female,48,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,653,Negative,Negative
+DDIC-022,DDIC-022-F02,Index family,Case,Male,28,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,No,,Negative,Negative
+DDIC-022,DDIC-022-F01,Index,Case,Male,23,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,836701,Positive,opened,No,No,No,,Positive,Positive
+DDIC-022-C1,DDIC-022-C1-F01,Control,Control,Male,22,Negative,Above 15 Years,Yes,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,3811,Negative,Negative
+DDIC-022-C2,DDIC-022-C2-F01,Control,Control,Male,23,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,,No,No,Yes,3811,Negative,Negative
+DDIC-022-C3,DDIC-022-C3-F03,Control family,Control,Male,30,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,,Negative,Negative
+DDIC-022-C3,DDIC-022-C3-F01,Control,Control,Male,30,,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,,,,,,,,Negative,
+DDIC-022-C3,DDIC-022-C3-F02,Control family,Control,Male,34,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,548,Negative,Negative
+DDIC-023,DDIC-023-F02,Index family,Case,Male,35,Positive,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,22136,Positive,closed,No,No,No,1574,Negative,Negative
+DDIC-023,DDIC-023-F03,Index family,Case,Male,3,Positive,Under 5,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,,Positive,Positive
+DDIC-023,DDIC-023-F01,Index,Case,Female,26,Positive,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,112029,Positive,closed,No,No,No,1574,Positive,Positive
+DDIC-023-C1,DDIC-023-C1-F04,Control family,Control,Male,8,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,,DD City,0,Negative,closed,,No,No,263,Negative,Negative
+DDIC-023-C1,DDIC-023-C1-F01,Control,Control,Female,30,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,,DD City,0,Negative,closed,,No,No,880,Negative,Negative
+DDIC-023-C1,DDIC-023-C1-F03,Control family,Control,Male,3,Negative,Under 5,No,,Yes,Negative,Negative,Negative,Negative,,DD City,0,Negative,closed,,No,No,880,Negative,Negative
+DDIC-023-C1,DDIC-023-C1-F02,Control family,Control,Male,35,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,,DD City,0,Negative,closed,,No,No,880,Negative,Negative
+DDIC-023-C2,DDIC-023-C2-F05,Control family,Control,Male,38,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,2440,Positive,closed,No,No,No,1574,Negative,Negative
+DDIC-023-C2,DDIC-023-C2-F04,Control family,Control,Male,3,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,1574,Negative,Negative
+DDIC-023-C2,DDIC-023-C2-F03,Control family,Control,Male,5,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,263,Negative,Negative
+DDIC-023-C2,DDIC-023-C2-F01,Control,Control,Female,25,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,263,Negative,Negative
+DDIC-023-C2,DDIC-023-C2-F02,Control family,Control,Female,18,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,263,Negative,Negative
+DDIC-023-C3,DDIC-023-C3-F01,Control,Control,Female,23,Positive,Above 15 Years,Yes,,,Negative,Negative,Negative,Negative,,DD City,1764,Positive,,,,,1574,Negative,Negative
+DDIC-024,DDIC-024-F02,Index family,Case,Female,19,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,3329,Negative,Negative
+DDIC-024,DDIC-024-F01,Index,Case,Male,27,Positive,Above 15 Years,Yes,,Yes,Negative,Negative,Negative,Negative,No,DD City,17338156,Positive,closed,No,No,No,206,Positive,Positive
+DDIC-024-C1,DDIC-024-C1-F06,Control family,Control,Female,15,Positive,5 - 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,1050,Positive,closed,No,No,Yes,206,Negative,Negative
+DDIC-024-C1,DDIC-024-C1-F04,Control family,Control,Female,13,Positive,5 - 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,200841,Positive,closed,No,No,Yes,206,Negative,Positive
+DDIC-024-C1,DDIC-024-C1-F02,Control family,Control,Female,30,Positive,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,648,Negative,Positive
+DDIC-024-C1,DDIC-024-C1-F05,Control family,Control,Male,15,Negative,5 - 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,206,Negative,Negative
+DDIC-024-C1,DDIC-024-C1-F01,Control,Control,Male,40,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,648,Negative,Negative
+DDIC-024-C1,DDIC-024-C1-F03,Control family,Control,Male,16,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,206,Negative,Negative
+DDIC-024-C1,DDIC-024-C1-F07,Control family,Control,Male,10,Negative,5 - 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,206,Negative,Negative
+DDIC-024-C2,DDIC-024-C2-F01,Control,Control,Male,22,Positive,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,,DD City,1195,Positive,closed,No,No,No,206,Negative,Negative
+DDIC-025,DDIC-025-F03,Index family,Case,Female,6,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,No,596,Negative,Negative
+DDIC-025,DDIC-025-F02,Index family,Case,Male,20,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,No,596,Negative,Negative
+DDIC-025,DDIC-025-F05,Index family,Case,Female,10,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,No,596,Negative,Negative
+DDIC-025,DDIC-025-F04,Index family,Case,Male,13,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,No,596,Negative,Negative
+DDIC-025,DDIC-025-F01,Index,Case,Female,45,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,836701,Positive,opened,No,No,No,596,Positive,Negative
+DDIC-025,DDIC-025-F06,Index family,Case,Female,15,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,No,,Negative,Negative
+DDIC-025-C1,DDIC-025-C1-F03,Control family,Control,Female,1,Negative,Under 5,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,656,Negative,Negative
+DDIC-025-C1,DDIC-025-C1-F05,Control family,Control,Male,7,Negative,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,656,Negative,Negative
+DDIC-025-C1,DDIC-025-C1-F02,Control family,Control,Female,23,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,656,Negative,Negative
+DDIC-025-C1,DDIC-025-C1-F01,Control,Control,Female,47,Negative,Above 15 Years,Yes,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,656,Negative,Negative
+DDIC-025-C1,DDIC-025-C1-F04,Control family,Control,Male,7,Negative,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,656,Negative,Negative
+DDIC-025-C2,DDIC-025-C2-F04,Control family,Control,Female,6,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,692,Negative,Negative
+DDIC-025-C2,DDIC-025-C2-F05,Control family,Control,Female,24,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,692,Negative,Negative
+DDIC-025-C2,DDIC-025-C2-F02,Control family,Control,Male,1,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,692,Negative,Negative
+DDIC-025-C2,DDIC-025-C2-F06,Control family,Control,Female,17,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,692,Negative,Negative
+DDIC-025-C2,DDIC-025-C2-F01,Control,Control,Female,33,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,656,Negative,Negative
+DDIC-025-C2,DDIC-025-C2-F03,Control family,Control,Male,9,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,692,Negative,Negative
+DDIC-025-C3,DDIC-025-C3-F01,Control,Control,Female,25,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,596,Negative,Negative
+DDIC-026,DDIC-026-F05,Index family,Case,Female,43,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,416,Negative,Negative
+DDIC-026,DDIC-026-F04,Index family,Case,Female,7,Positive,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,416,Positive,Positive
+DDIC-026,DDIC-026-F02,Index family,Case,Male,62,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1852,Negative,Negative
+DDIC-026,DDIC-026-F03,Index family,Case,Female,24,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1852,Negative,Negative
+DDIC-026,DDIC-026-F06,Index family,Case,Male,18,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,416,Negative,Negative
+DDIC-026,DDIC-026-F01,Index,Case,Female,15,Positive,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,734907,Positive,closed,No,No,No,1852,Positive,Positive
+DDIC-026-C1,DDIC-026-C1-F02,Control family,Control,Female,30,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,476,Negative,Negative
+DDIC-026-C1,DDIC-026-C1-F01,Control,Control,Female,6,Negative,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,476,Negative,Negative
+DDIC-026-C2,DDIC-026-C2-F03,Control family,Control,Female,14,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,476,Negative,Negative
+DDIC-026-C2,DDIC-026-C2-F06,Control family,Control,Female,8,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,537,Negative,Negative
+DDIC-026-C2,DDIC-026-C2-F08,Control family,Control,Male,60,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1852,Negative,Negative
+DDIC-026-C2,DDIC-026-C2-F01,Control,Control,Female,15,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,476,Negative,Negative
+DDIC-026-C2,DDIC-026-C2-F04,Control family,Control,Female,13,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,476,Negative,Negative
+DDIC-026-C2,DDIC-026-C2-F05,Control family,Control,Female,10,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,537,Negative,Negative
+DDIC-026-C2,DDIC-026-C2-F07,Control family,Control,Male,5,Negative,Under 5,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1852,Negative,Negative
+DDIC-026-C2,DDIC-026-C2-F02,Control family,Control,Female,32,Positive,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,1195,Positive,closed,No,No,No,476,Negative,Negative
+DDIC-026-C3,DDIC-026-C3-F02,Control family,Control,Female,18,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1852,Negative,Negative
+DDIC-026-C3,DDIC-026-C3-F03,Control family,Control,Male,65,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1852,Negative,Negative
+DDIC-026-C3,DDIC-026-C3-F01,Control,Control,Female,6,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1852,Negative,Negative
+DDIC-027,DDIC-027-F01,Index,Case,Male,45,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,27777726,Positive,closed,No,No,No,742,Positive,Positive
+DDIC-027-C1,DDIC-027-C1-F01,Control,Control,Male,67,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,328,Negative,Negative
+DDIC-027-C1,DDIC-027-C1-F03,Control family,Control,Male,17,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,785,Negative,Negative
+DDIC-027-C1,DDIC-027-C1-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,785,Negative,Negative
+DDIC-027-C2,DDIC-027-C2-F04,Control family,Control,Female,8,Positive,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,4099,Positive,closed,No,No,Yes,742,Negative,Negative
+DDIC-027-C2,DDIC-027-C2-F03,Control family,Control,Female,45,Positive,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,4667,Positive,closed,No,No,Yes,742,Negative,Negative
+DDIC-027-C2,DDIC-027-C2-F01,Control,Control,Male,60,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,785,Negative,Negative
+DDIC-027-C2,DDIC-027-C2-F02,Control family,Control,Male,36,Positive,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,1653,Positive,closed,No,No,Yes,742,Negative,Negative
+DDIC-028,DDIC-028-F01,Index,Case,Male,17,Positive,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,75913,Positive,closed,No,No,Yes,520,Positive,Positive
+DDIC-028,DDIC-028-F03,Index family,Case,Female,30,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,576,Negative,Negative
+DDIC-028,DDIC-028-F04,Index family,Case,Female,45,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,576,Negative,Negative
+DDIC-028,DDIC-028-F02,Index family,Case,Female,57,Positive,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,836701,Positive,closed,No,No,Yes,520,Positive,Positive
+DDIC-028-C1,DDIC-028-C1-F01,Control,Control,Male,16,Positive,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,51440,Positive,closed,No,No,Yes,520,Negative,Negative
+DDIC-028-C1,DDIC-028-C1-F02,Control family,Control,Female,38,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,520,Negative,Negative
+DDIC-029,DDIC-029-F02,Index family,Case,Female,38,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,34584,Positive,closed,Yes,No,No,221,Negative,Negative
+DDIC-029,DDIC-029-F01,Index,Case,Male,40,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,4820961,Positive,closed,Yes,No,No,221,Positive,Positive
+DDIC-029,DDIC-029-F03,Index family,Case,Female,7,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,No,221,Negative,Negative
+DDIC-029-C1,DDIC-029-C1-F02,Control family,Control,Female,31,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,No,523,Negative,Negative
+DDIC-029-C1,DDIC-029-C1-F03,Control family,Control,Female,9,Negative,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,No,523,Negative,Negative
+DDIC-029-C1,DDIC-029-C1-F01,Control,Control,Male,38,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,No,523,Negative,Negative
+DDIC-030,DDIC-030-F01,Index,Case,Female,20,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,836701,Positive,closed,No,No,No,,Positive,Positive
+DDIC-030,DDIC-030-F02,Index family,Case,Male,35,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,2689135,Positive,closed,No,No,No,,Positive,Positive
+DDIC-030-C1,DDIC-030-C1-F03,Control family,Control,Female,18,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,3912,Negative,Negative
+DDIC-030-C1,DDIC-030-C1-F01,Control,Control,Female,35,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,455,Negative,Negative
+DDIC-030-C1,DDIC-030-C1-F02,Control family,Control,Female,50,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,455,Negative,Negative
+DDIC-030-C2,DDIC-030-C2-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,2110,Negative,Negative
+DDIC-030-C2,DDIC-030-C2-F01,Control,Control,Female,24,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,3912,Negative,Negative
+DDIC-030-C2,DDIC-030-C2-F02,Control family,Control,Male,2,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,3912,Negative,Negative
+DDIC-030-C3,DDIC-030-C3-F04,Control family,Control,Male,28,Negative,Above 15 Years,No,stream,No,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,No,,Negative,Negative
+DDIC-030-C3,DDIC-030-C3-F02,Control family,Control,Male,50,Negative,Above 15 Years,No,stream,No,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,No,2110,Negative,Negative
+DDIC-030-C3,DDIC-030-C3-F05,Control family,Control,Female,25,Negative,Above 15 Years,No,stream,No,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,No,,Negative,Negative
+DDIC-030-C3,DDIC-030-C3-F01,Control,Control,Female,45,Negative,Above 15 Years,No,stream,No,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,No,2110,Negative,Negative
+DDIC-030-C3,DDIC-030-C3-F03,Control family,Control,Female,12,Negative,5 - 15 Years,No,stream,No,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,No,,Negative,Negative
+DDIC-031,DDIC-031-F03,Index family,Case,Female,70,Negative,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,667,Negative,Negative
+DDIC-031,DDIC-031-F02,Index family,Case,Male,47,Negative,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,177,Negative,Negative
+DDIC-031,DDIC-031-F04,Index family,Case,Female,35,Negative,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,667,Negative,Negative
+DDIC-031,DDIC-031-F01,Index,Case,Male,50,Positive,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,Yes,DD City,2689135,Positive,closed,No,No,No,177,Positive,Positive
+DDIC-031,DDIC-031-F05,Index family,Case,Female,35,Negative,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,667,Negative,Negative
+DDIC-031-C1,DDIC-031-C1-F01,Control,Control,Male,28,Negative,Above 15 Years,No,,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,401,Negative,Negative
+DDIC-031-C2,DDIC-031-C2-F02,Control family,Control,Female,28,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,401,Negative,Negative
+DDIC-031-C2,DDIC-031-C2-F01,Control,Control,Male,32,,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,Yes,DD City,,,closed,No,No,No,401,Negative,Negative
+DDIC-031-C3,DDIC-031-C3-F02,Control family,Control,Female,20,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,Yes,401,Negative,Negative
+DDIC-031-C3,DDIC-031-C3-F01,Control,Control,Male,32,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,Yes,401,Negative,Negative
+DDIC-031-C3,DDIC-031-C3-F03,Control family,Control,Female,3,,Under 5,No,,No,Negative,Negative,Negative,Negative,No,DD City,,,opened,No,No,Yes,,,
+DDIC-032,DDIC-032-F01,Index,Case,Male,3,Positive,Under 5,No,river,No,Negative,Negative,Negative,Negative,No,DD City,18222,Positive,closed,No,No,Yes,296,Positive,Positive
+DDIC-032,DDIC-032-F05,Index family,Case,Female,28,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,296,Negative,Negative
+DDIC-032,DDIC-032-F04,Index family,Case,Male,6,Positive,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,42344,Positive,closed,No,No,Yes,296,Positive,Positive
+DDIC-032,DDIC-032-F03,Index family,Case,Female,49,Positive,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,17078,Positive,closed,No,No,Yes,296,Negative,Positive
+DDIC-032,DDIC-032-F02,Index family,Case,Male,16,Positive,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,92220,Positive,closed,No,No,Yes,296,Positive,Positive
+DDIC-032-C1,DDIC-032-C1-F01,Control,Control,Male,2,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,659,Negative,Negative
+DDIC-032-C1,DDIC-032-C1-F04,Control family,Control,Female,27,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,659,Negative,Negative
+DDIC-032-C1,DDIC-032-C1-F03,Control family,Control,Male,6,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,659,Negative,Negative
+DDIC-032-C1,DDIC-032-C1-F02,Control family,Control,Female,35,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,659,Negative,Negative
+DDIC-032-C2,DDIC-032-C2-F06,Control family,Control,Male,16,Positive,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,,DD City,,,closed,Yes,No,Yes,296,,Positive
+DDIC-032-C2,DDIC-032-C2-F02,Control family,Control,Female,18,Positive,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,,DD City,,,closed,Yes,No,Yes,1950,,Positive
+DDIC-032-C2,DDIC-032-C2-F03,Control family,Control,Female,32,,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,,DD City,,,closed,Yes,No,Yes,1950,,Negative
+DDIC-032-C2,DDIC-032-C2-F04,Control family,Control,Male,7,Positive,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,,DD City,,,closed,Yes,No,Yes,1950,,Positive
+DDIC-032-C2,DDIC-032-C2-F07,Control family,Control,Female,1,,Under 5,No,river,No,Negative,Negative,Negative,Negative,,DD City,,,closed,Yes,No,Yes,296,,Negative
+DDIC-032-C2,DDIC-032-C2-F01,Control,Control,Male,35,,Above 15 Years,Yes,river,No,Negative,Negative,Negative,Negative,,DD City,,,closed,Yes,No,Yes,659,,Negative
+DDIC-032-C2,DDIC-032-C2-F05,Control family,Control,Male,3,,Under 5,No,river,No,Negative,Negative,Negative,Negative,,DD City,,,closed,Yes,No,Yes,1950,,Negative
+DDIC-033,DDIC-033-F04,Index family,Case,Male,35,Positive,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,463053,Positive,closed,No,No,No,168,Negative,Positive
+DDIC-033,DDIC-033-F01,Index,Case,Female,10,Positive,5 - 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,214299,Positive,closed,No,No,No,168,Positive,Positive
+DDIC-033,DDIC-033-F03,Index family,Case,Female,1,,Under 5,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,,,closed,No,No,No,168,Negative,Negative
+DDIC-033,DDIC-033-F02,Index family,Case,Female,29,Negative,Above 15 Years,Yes,river,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,168,Negative,Negative
+DDIC-033-C1,DDIC-033-C1-F03,Control family,Control,Female,47,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,Yes,706,Negative,Negative
+DDIC-033-C1,DDIC-033-C1-F04,Control family,Control,Female,17,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,Yes,706,Negative,Negative
+DDIC-033-C1,DDIC-033-C1-F01,Control,Control,Female,8,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,Yes,706,Negative,Negative
+DDIC-033-C1,DDIC-033-C1-F02,Control family,Control,Male,53,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,No,No,Yes,706,Negative,Negative
+DDIC-033-C2,DDIC-033-C2-F04,Control family,Control,Male,13,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,391,Negative,Negative
+DDIC-033-C2,DDIC-033-C2-F03,Control family,Control,Female,42,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,391,Negative,Negative
+DDIC-033-C2,DDIC-033-C2-F02,Control family,Control,Male,51,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,391,Negative,Negative
+DDIC-033-C2,DDIC-033-C2-F01,Control,Control,Female,6,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,391,Negative,Negative
+DDIC-034,DDIC-034-F04,Index family,Case,Female,4,Negative,Under 5,No,,Yes,Negative,Negative,Negative,Negative,,DD City,0,Negative,closed,No,No,No,577,Negative,Negative
+DDIC-034,DDIC-034-F02,Index family,Case,Male,27,Negative,Above 15 Years,Yes,,Yes,Negative,Negative,Negative,Negative,,DD City,0,Negative,closed,No,No,No,577,Negative,Negative
+DDIC-034,DDIC-034-F01,Index,Case,Female,30,Positive,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,,DD City,37193,Positive,closed,No,No,No,719,Positive,Positive
+DDIC-034,DDIC-034-F05,Index family,Case,Male,1,Negative,Under 5,No,,Yes,Negative,Negative,Negative,Negative,,DD City,0,Negative,closed,No,No,No,577,Negative,Negative
+DDIC-034,DDIC-034-F03,Index family,Case,Female,12,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,,DD City,0,Negative,closed,No,No,No,577,Negative,Negative
+DDIC-034-C1,DDIC-034-C1-F01,Control,Control,Female,23,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,424,Negative,Negative
+DDIC-034-C2,DDIC-034-C2-F02,Control family,Control,Male,7,,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,,,closed,No,No,Yes,424,Negative,Negative
+DDIC-034-C2,DDIC-034-C2-F03,Control family,Control,Female,18,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,424,Negative,Negative
+DDIC-034-C2,DDIC-034-C2-F01,Control,Control,Female,37,,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,,,closed,No,No,Yes,424,Negative,Negative
+DDIC-034-C3,DDIC-034-C3-F04,Control family,Control,Female,12,Negative,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,719,Negative,Negative
+DDIC-034-C3,DDIC-034-C3-F01,Control,Control,Female,27,Negative,Above 15 Years,Yes,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,424,Negative,Negative
+DDIC-034-C3,DDIC-034-C3-F02,Control family,Control,Male,4,Negative,Under 5,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,611,Negative,Negative
+DDIC-034-C3,DDIC-034-C3-F03,Control family,Control,Female,2,Negative,Under 5,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,719,Negative,Negative
+DDIC-035,DDIC-035-F01,Index,Case,Male,30,Positive,Above 15 Years,Yes,river,No,Negative,Negative,Negative,Negative,No,DD City,688753,Positive,closed,No,No,No,314,Positive,Positive
+DDIC-035-C1,DDIC-035-C1-F02,Control family,Control,Female,38,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,346,Negative,Negative
+DDIC-035-C1,DDIC-035-C1-F03,Control family,Control,Female,15,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,346,Negative,Negative
+DDIC-035-C1,DDIC-035-C1-F01,Control,Control,Male,60,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,587,Negative,Negative
+DDIC-035-C2,DDIC-035-C2-F02,Control family,Control,Male,24,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,569,Negative,Negative
+DDIC-035-C2,DDIC-035-C2-F01,Control,Control,Male,38,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,346,Negative,Negative
+DDIC-035-C2,DDIC-035-C2-F03,Control family,Control,Female,30,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,569,Negative,Negative
+DDIC-035-C3,DDIC-035-C3-F02,Control family,Control,Male,24,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,314,Negative,Negative
+DDIC-035-C3,DDIC-035-C3-F01,Control,Control,Male,45,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,569,Negative,Negative
+DDIC-036,DDIC-036-F01,Index,Case,Male,18,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,2074608,Positive,closed,No,No,No,2758,Positive,Positive
+DDIC-036,DDIC-036-F02,Index family,Case,Male,19,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,316253,Positive,closed,No,No,No,2758,Positive,Positive
+DDIC-036-C1,DDIC-036-C1-F01,Control,Control,Male,20,Negative,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1245,Negative,Negative
+DDIC-036-C2,DDIC-036-C2-F03,Control family,Control,Female,3,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,opened,No,No,No,2758,Negative,Negative
+DDIC-036-C2,DDIC-036-C2-F02,Control family,Control,Female,22,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,opened,No,No,No,894,Negative,Negative
+DDIC-036-C2,DDIC-036-C2-F01,Control,Control,Male,26,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,opened,No,No,No,1245,Negative,Negative
+DDIC-037,DDIC-037-F01,Index,Case,Male,54,Positive,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,8100010,Positive,closed,No,No,Yes,,Positive,Positive
+DDIC-037,DDIC-037-F03,Index family,Case,Female,29,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,,Negative,Negative
+DDIC-037,DDIC-037-F02,Index family,Case,Female,38,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,,Negative,Negative
+DDIC-037-C1,DDIC-037-C1-F01,Control,Control,Male,21,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,620,Negative,Negative
+DDIC-037-C2,DDIC-037-C2-F05,Index family,Case,Female,28,Negative,Above 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,,Negative,Negative
+DDIC-037-C2,DDIC-037-C2-F02,Index family,Case,Male,24,Positive,Above 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,70588,Positive,,,,,620,Negative,Negative
+DDIC-037-C2,DDIC-037-C2-F03,Index family,Case,Female,18,Positive,Above 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,8858,Positive,,,,,882,Negative,Negative
+DDIC-037-C2,DDIC-037-C2-F04,Index family,Case,Male,20,Positive,Above 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,226867,Positive,,,,,,Negative,Negative
+DDIC-037-C2,DDIC-037-C2-F01,Index,Case,Male,35,Positive,Above 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,200841,Positive,,,,,620,Positive,Negative
+DDIC-037-C2,DDIC-037-C2-F07,Index family,Case,Female,15,Negative,5 - 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,0,Negative,,,,,,Negative,Negative
+DDIC-037-C2,DDIC-037-C2-F06,Index family,Case,Female,30,Positive,Above 15 Years,No,stream,,Negative,Negative,Negative,Negative,,DD City,98399,Positive,,,,,,Negative,Negative
+DDIC-038,DDIC-038-F01,Index,Case,Female,45,Positive,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,7591304,Positive,closed,Yes,No,Yes,934,Positive,Positive
+DDIC-038,DDIC-038-F02,Index family,Case,Male,9,Positive,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,11953627,Positive,closed,Yes,No,Yes,145,Positive,Positive
+DDIC-038,DDIC-038-F03,Index family,Case,Male,18,Negative,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,145,Negative,Negative
+DDIC-038-C1,DDIC-038-C1-F07,Control family,Control,Female,14,Negative,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,212,Negative,Negative
+DDIC-038-C1,DDIC-038-C1-F04,Control family,Control,Female,6,Negative,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,212,Negative,Negative
+DDIC-038-C1,DDIC-038-C1-F02,Control family,Control,Male,35,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,697,Negative,Negative
+DDIC-038-C1,DDIC-038-C1-F06,Control family,Control,Female,29,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,212,Negative,Negative
+DDIC-038-C1,DDIC-038-C1-F03,Control family,Control,Female,9,Negative,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,697,Negative,Negative
+DDIC-038-C1,DDIC-038-C1-F05,Control family,Control,Female,15,Negative,5 - 15 Years,No,river,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,212,Negative,Negative
+DDIC-038-C1,DDIC-038-C1-F01,Control,Control,Female,60,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,No,No,No,697,Negative,Negative
+DDIC-038-C2,DDIC-038-C2-F02,Control family,Control,Female,18,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,212,Negative,Negative
+DDIC-038-C2,DDIC-038-C2-F01,Control,Control,Female,37,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,212,Negative,Negative
+DDIC-038-C3,DDIC-038-C3-F02,Control family,Control,Female,44,Negative,Above 15 Years,No,river,No,Positive,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,No,DD City,0,Negative,closed,Yes,No,No,934,Negative,Negative
+DDIC-038-C3,DDIC-038-C3-F01,Control,Control,Female,40,Negative,Above 15 Years,No,river,No,Positive,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,No,DD City,0,Negative,closed,Yes,No,No,212,Negative,Negative
+DDIC-039,DDIC-039-F01,Index,Case,Female,45,Positive,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,226867,Positive,closed,Yes,No,Yes,,Positive,Positive
+DDIC-039,DDIC-039-F02,Index family,Case,Male,48,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,,Negative,Negative
+DDIC-039-C1,DDIC-039-C1-F01,Control,Control,Female,35,Negative,Above 15 Years,No,river,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,374,Negative,Negative
+DDIC-039-C2,DDIC-039-C2-F02,Control family,Control,Male,25,Negative,Above 15 Years,No,,No,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,No,383,Negative,Negative
+DDIC-039-C2,DDIC-039-C2-F01,Control,Control,Female,20,Negative,Above 15 Years,No,,No,Positive,Negative,Negative,Positive,No,DD City,0,Negative,closed,No,No,No,374,Negative,Negative
+DDIC-040,DDIC-040-F05,Index family,Case,Female,4,Negative,Under 5,No,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,1104,Negative,Negative
+DDIC-040,DDIC-040-F06,Index family,Case,Female,20,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,1104,Negative,Negative
+DDIC-040,DDIC-040-F04,Index family,Case,Female,4,Negative,Under 5,No,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,1104,Negative,Negative
+DDIC-040,DDIC-040-F01,Index,Case,Male,46,Positive,Above 15 Years,Yes,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,836701,Positive,closed,Yes,No,Yes,1246,Positive,Positive
+DDIC-040,DDIC-040-F03,Index family,Case,Female,10,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,1246,Negative,Negative
+DDIC-040,DDIC-040-F02,Index family,Case,Female,36,Negative,Above 15 Years,Yes,,Yes,Negative,Negative,Negative,Negative,Yes,DD City,0,Negative,closed,Yes,No,Yes,1246,Negative,Negative
+DDIC-040-C1,DDIC-040-C1-F01,Control,Control,Male,36,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,No,1246,Negative,Negative
+DDIC-040-C1,DDIC-040-C1-F02,Control family,Control,Female,22,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,No,1246,Negative,Negative
+DDIC-040-C1,DDIC-040-C1-F03,Control family,Control,Female,2,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,No,1246,Negative,Negative
+DDIC-041,DDIC-041-F02,Index family,Case,Male,57,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,466,Negative,Negative
+DDIC-041,DDIC-041-F04,Index family,Case,Male,2,Negative,Under 5,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,466,Negative,Negative
+DDIC-041,DDIC-041-F03,Index family,Case,Female,26,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,466,Negative,Negative
+DDIC-041,DDIC-041-F01,Index,Case,Female,21,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,2074608,Positive,closed,No,No,No,466,Positive,Positive
+DDIC-041-C1,DDIC-041-C1-F03,Control family,Control,Female,40,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,546,Negative,Negative
+DDIC-041-C1,DDIC-041-C1-F02,Control family,Control,Female,27,Positive,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,1120,Positive,closed,Yes,No,Yes,546,Negative,Negative
+DDIC-041-C1,DDIC-041-C1-F01,Control,Control,Female,18,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,546,Negative,Negative
+DDIC-041-C2,DDIC-041-C2-F02,Control family,Control,Female,70,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1020,Negative,Negative
+DDIC-041-C2,DDIC-041-C2-F06,Control family,Control,Male,12,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,466,Negative,Negative
+DDIC-041-C2,DDIC-041-C2-F03,Control family,Control,Female,15,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1020,Negative,Negative
+DDIC-041-C2,DDIC-041-C2-F05,Control family,Control,Female,16,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,466,Negative,Negative
+DDIC-041-C2,DDIC-041-C2-F04,Control family,Control,Male,3,Negative,Under 5,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1020,Negative,Negative
+DDIC-041-C2,DDIC-041-C2-F07,Control family,Control,Female,9,Negative,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,466,Negative,Negative
+DDIC-041-C2,DDIC-041-C2-F01,Control,Control,Female,35,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,546,Negative,Negative
+DDIC-042,DDIC-042-F01,Index,Case,Female,18,Positive,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,19291,Positive,closed,Yes,No,No,348,Positive,Positive
+DDIC-042,DDIC-042-F04,Index family,Case,Male,10,Positive,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,15880,Positive,closed,Yes,No,No,314,Positive,Negative
+DDIC-042,DDIC-042-F05,Index family,Case,Male,11,Negative,5 - 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,No,314,Negative,Negative
+DDIC-042,DDIC-042-F03,Index family,Case,Female,27,Positive,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,357236,Positive,closed,Yes,No,No,314,Positive,Negative
+DDIC-042,DDIC-042-F02,Index family,Case,Female,39,Positive,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,1993,Positive,closed,Yes,No,No,348,Negative,Negative
+DDIC-042-C1,DDIC-042-C1-F01,Control,Control,Female,27,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,229,Negative,Negative
+DDIC-042-C1,DDIC-042-C1-F02,Control family,Control,Male,27,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,229,Negative,Negative
+DDIC-042-C2,DDIC-042-C2-F01,Control,Control,Female,24,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,229,Negative,Negative
+DDIC-042-C2,DDIC-042-C2-F02,Control family,Control,Male,40,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,229,Negative,Negative
+DDIC-042-C2,DDIC-042-C2-F03,Control family,Control,Male,14,Negative,5 - 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,229,Negative,Negative
+DDIC-043,DDIC-043-F02,Index family,Case,Male,19,Positive,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,1694382,Positive,closed,No,No,No,1375,Positive,Positive
+DDIC-043,DDIC-043-F03,Index family,Case,Male,18,Negative,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1375,Negative,Negative
+DDIC-043,DDIC-043-F01,Index,Case,Male,18,Positive,Above 15 Years,No,river,Yes,Negative,Negative,Negative,Negative,No,DD City,1076040,Positive,closed,No,No,No,2542,Positive,Positive
+DDIC-043-C1,DDIC-043-C1-F01,Control,Control,Male,35,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,247,Negative,Negative
+DDIC-043-C2,DDIC-043-C2-F04,Control family,Control,Male,3,Negative,Under 5,No,stagnant water,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,Yes,No,Yes,2542,Negative,Negative
+DDIC-043-C2,DDIC-043-C2-F02,Control family,Control,Female,26,Negative,Above 15 Years,No,stagnant water,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,Yes,No,Yes,247,Negative,Negative
+DDIC-043-C2,DDIC-043-C2-F03,Control family,Control,Male,7,Negative,5 - 15 Years,No,stagnant water,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,Yes,No,Yes,697,Negative,Negative
+DDIC-043-C2,DDIC-043-C2-F01,Control,Control,Male,26,Negative,Above 15 Years,No,stagnant water,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,opened,Yes,No,Yes,247,Negative,Negative
+DDIC-043-C3,DDIC-043-C3-F02,Control family,Control,Female,20,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,2542,Negative,Negative
+DDIC-043-C3,DDIC-043-C3-F01,Control,Control,Male,32,Negative,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,2542,Negative,Negative
+DDIC-044,DDIC-044-F03,Index family,Case,Male,23,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DD City,199266,Positive,closed,No,No,Yes,386,Positive,Negative
+DDIC-044,DDIC-044-F01,Index,Case,Female,70,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DD City,2196280,Positive,closed,No,No,Yes,386,Positive,Positive
+DDIC-044,DDIC-044-F02,Index family,Case,Female,23,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,386,Negative,Negative
+DDIC-044-C1,DDIC-044-C1-F03,Control family,Control,Female,14,Negative,5 - 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,641,Negative,Negative
+DDIC-044-C1,DDIC-044-C1-F01,Control,Control,Female,40,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,641,Negative,Negative
+DDIC-044-C1,DDIC-044-C1-F04,Control family,Control,Female,8,Negative,5 - 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,1329,Negative,Negative
+DDIC-044-C1,DDIC-044-C1-F02,Control family,Control,Female,18,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,641,Negative,Negative
+DDIC-044-C2,DDIC-044-C2-F01,Control,Control,Female,45,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,1329,Negative,Negative
+DDIC-044-C2,DDIC-044-C2-F02,Control family,Control,Female,25,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,Yes,No,Yes,1329,Negative,Negative
+DDIC-044-C3,DDIC-044-C3-F02,Control family,Control,Male,58,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,64,Negative,Negative
+DDIC-044-C3,DDIC-044-C3-F04,Control family,Control,Male,6,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,386,Negative,Negative
+DDIC-044-C3,DDIC-044-C3-F03,Control family,Control,Male,15,Negative,5 - 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,64,Negative,Negative
+DDIC-044-C3,DDIC-044-C3-F05,Control family,Control,Female,23,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,386,Negative,Negative
+DDIC-044-C3,DDIC-044-C3-F01,Control,Control,Female,50,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,1329,Negative,Negative
+DDIC-045,DDIC-045-F01,Index,Case,Male,25,Positive,Above 15 Years,No,stream,No,Negative,Negative,Negative,Negative,No,DD City,885770,Positive,closed,No,No,No,755,Positive,Positive
+DDIC-045,DDIC-045-F02,Index family,Case,Female,25,Negative,Above 15 Years,Yes,stream,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,755,Negative,Negative
+DDIC-045-C1,DDIC-045-C1-F01,Control,Control,Male,23,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,193,Negative,Negative
+DDIC-045-C1,DDIC-045-C1-F02,Control family,Control,Female,19,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,193,Negative,Negative
+DDIC-045-C2,DDIC-045-C2-F02,Control family,Control,Female,50,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,1162,Negative,Negative
+DDIC-045-C2,DDIC-045-C2-F01,Control,Control,Male,20,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,1162,Negative,Negative
+DDIC-045-C2,DDIC-045-C2-F03,Control family,Control,Female,18,Negative,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,Yes,289,Negative,Negative
+DDIC-045-C2,DDIC-045-C2-F04,Control family,Control,,,,Above 15 Years,No,stream,Yes,Negative,Negative,Negative,Negative,No,DD City,,,closed,No,No,Yes,289,,
+DDIC-045-C3,DDIC-045-C3-F03,Index family,Case,Male,10,,5 - 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,,,closed,No,No,No,755,,
+DDIC-045-C3,DDIC-045-C3-F01,Index,Case,Male,35,Positive,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,625,Positive,closed,No,No,No,289,Positive,Negative
+DDIC-045-C3,DDIC-045-C3-F04,Index family,Case,Male,5,,Under 5,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,,,closed,No,No,No,755,,
+DDIC-045-C3,DDIC-045-C3-F02,Index family,Case,Female,30,Negative,Above 15 Years,No,,Yes,Negative,Negative,Negative,Negative,No,DD City,0,Negative,closed,No,No,No,289,Negative,Negative
+DDUIC-001,DDUIC-001-F01,Index,Case,Male,21,Positive,Above 15 Years,No,pond,No,Positive,Negative,Negative,Positive,,DDU,683353,Positive,,,,No,84,,Positive
+DDUIC-001,DDUIC-001-F02,Index family,Case,Male,22,Negative,Above 15 Years,Yes,pond,No,Positive,Negative,Negative,Positive,,DDU,0,Negative,,,,No,84,Negative,Negative
+DDUIC-001-C1,DDUIC-001-C1-F03,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,Yes,51,Negative,Negative
+DDUIC-001-C1,DDUIC-001-C1-F02,Control family,Control,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,Yes,0,Positive,Negative
+DDUIC-001-C1,DDUIC-001-C1-F01,Control,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,Yes,0,Negative,Negative
+DDUIC-001-C2,DDUIC-001-C2-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,,DDU,0,Negative,,,,,,Negative,Negative
+DDUIC-001-C2,DDUIC-001-C2-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,,DDU,0,Negative,,,,,51,Negative,Negative
+DDUIC-001-C2,DDUIC-001-C2-F01,Control,Control,Male,20,Positive,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,,DDU,277778,Positive,,,,,51,Negative,Negative
+DDUIC-001-C3,DDUIC-001-C3-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,,DDU,0,Negative,closed,No,Yes,No,84,Negative,Negative
+DDUIC-001-C3,DDUIC-001-C3-F01,Control,Control,Male,24,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,,DDU,0,Negative,closed,No,Yes,No,,Negative,Negative
+DDUIC-001-C3,DDUIC-001-C3-F02,Control family,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,,DDU,0,Negative,closed,No,Yes,No,,Negative,Negative
+DDUIC-002,DDUIC-002-F02,Index family,Case,Male,25,Negative,Above 15 Years,Yes,pond,No,Positive,Negative,Negative,Positive,No,DDU,0,Negative,closed,No,No,No,23,Negative,Negative
+DDUIC-002,DDUIC-002-F01,Index,Case,Male,21,Positive,Above 15 Years,No,pond,No,Positive,Negative,Negative,Positive,No,DDU,144075,Positive,closed,No,No,No,23,Negative,Positive
+DDUIC-002-C1,DDUIC-002-C1-F01,Control,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,Yes,Yes,0,Negative,Negative
+DDUIC-002-C2,DDUIC-002-C2-F01,Control,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-002-C3,DDUIC-002-C3-F02,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,Yes,No,0,Negative,Negative
+DDUIC-002-C3,DDUIC-002-C3-F03,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,Yes,No,23,Negative,Negative
+DDUIC-002-C3,DDUIC-002-C3-F01,Control,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,Yes,No,0,Negative,Negative
+DDUIC-003,DDUIC-003-F03,Index family,Case,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,,No,Yes,87,Negative,Negative
+DDUIC-003,DDUIC-003-F01,Index,Case,Male,20,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,104170,Positive,opened,,No,Yes,51,Positive,Positive
+DDUIC-003,DDUIC-003-F02,Index family,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,1750,Positive,opened,,No,Yes,87,Negative,Positive
+DDUIC-003-C1,DDUIC-003-C1-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Positive,Negative,Negative,Positive,No,DDU,0,Negative,,No,Yes,No,86,Negative,Negative
+DDUIC-003-C2,DDUIC-003-C2-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,Yes,Yes,86,Negative,Negative
+DDUIC-003-C3,DDUIC-003-C3-F01,Control,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,0,Negative,,No,No,Yes,86,Negative,Negative
+DDUIC-003-C3,DDUIC-003-C3-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,0,Negative,,No,No,Yes,0,Negative,Negative
+DDUIC-004,DDUIC-004-F01,Index,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,275600,Positive,,No,Yes,Yes,39,Positive,Positive
+DDUIC-004-C1,DDUIC-004-C1-F01,Control,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,Yes,No,0,Negative,Negative
+DDUIC-004-C1,DDUIC-004-C1-F02,Control family,Control,Male,24,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,Yes,No,37,Negative,Negative
+DDUIC-004-C2,DDUIC-004-C2-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,,No,Yes,Yes,37,Negative,Negative
+DDUIC-004-C2,DDUIC-004-C2-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,,No,Yes,Yes,37,Negative,Negative
+DDUIC-004-C2,DDUIC-004-C2-F02,Control family,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,,No,Yes,Yes,37,Negative,Negative
+DDUIC-004-C3,DDUIC-004-C3-F02,Control family,Control,Male,26,Positive,Above 15 Years,Yes,pond,No,Negative,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,No,DDU,5670,Positive,closed,No,Yes,No,39,Negative,Negative
+DDUIC-004-C3,DDUIC-004-C3-F01,Control,Control,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,No,DDU,37193,Positive,closed,No,Yes,No,37,Negative,Negative
+DDUIC-005,DDUIC-005-F01,Index,Case,Male,23,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,,No,Yes,Yes,81,Positive,Positive
+DDUIC-005-C1,DDUIC-005-C1-F01,Control,Control,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,No,DDU,5314,Positive,closed,No,Yes,Yes,38,Negative,Negative
+DDUIC-005-C2,DDUIC-005-C2-F01,Index,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,2287,Positive,,No,No,No,87,Positive,Negative
+DDUIC-005-C3,DDUIC-005-C3-F01,Control,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,Yes,No,311,Negative,Negative
+DDUIC-006,DDUIC-006-F01,Index,Case,Male,20,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,463053,Positive,closed,No,Yes,Yes,37,Positive,Positive
+DDUIC-006-C1,DDUIC-006-C1-F01,Index,Case,Male,20,Positive,Above 15 Years,No,pond,No,Negative,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,No,DDU,566964,Positive,closed,No,Yes,No,81,Positive,Negative
+DDUIC-006-C2,DDUIC-006-C2-F01,Index,Case,Male,22,Positive,Above 15 Years,Yes,pond,No,Positive,Negative,Negative,Positive,No,DDU,384187,Positive,opened,No,No,No,0,Positive,Negative
+DDUIC-006-C3,DDUIC-006-C3-F01,Index,Case,Male,22,Positive,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,3163,Positive,opened,No,No,Yes,37,Positive,Negative
+DDUIC-007,DDUIC-007-F01,Index,Case,Male,23,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,118599,Positive,,No,Yes,No,51,Positive,Positive
+DDUIC-007-C1,DDUIC-007-C1-F01,Control,Control,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,98399,Positive,opened,No,Yes,Yes,2,Negative,Negative
+DDUIC-007-C2,DDUIC-007-C2-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,Yes,0,Negative,Negative
+DDUIC-008,DDUIC-008-F01,Index,Case,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,81000,Positive,opened,No,No,No,0,Positive,Positive
+DDUIC-008,DDUIC-008-F03,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Negative
+DDUIC-008,DDUIC-008-F02,Index family,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,334800,Positive,opened,No,No,No,0,Negative,Negative
+DDUIC-008-C1,DDUIC-008-C1-F01,Control,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,0,Negative,opened,No,No,Yes,46,Negative,Negative
+DDUIC-008-C1,DDUIC-008-C1-F02,Control family,Control,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,214299,Positive,opened,No,No,Yes,46,Negative,Positive
+DDUIC-008-C2,DDUIC-008-C2-F01,Index,Case,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,770708,Positive,opened,No,No,No,46,Positive,Negative
+DDUIC-008-C2,DDUIC-008-C2-F02,Index family,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,604958,Positive,opened,No,No,No,51,Positive,Positive
+DDUIC-008-C3,DDUIC-008-C3-F01,Control,Control,Male,23,,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,51,,Negative
+DDUIC-008-C3,DDUIC-008-C3-F04,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-008-C3,DDUIC-008-C3-F03,Control family,Control,Male,21,Positive,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,1549,Positive,opened,No,No,Yes,46,Negative,Negative
+DDUIC-008-C3,DDUIC-008-C3-F02,Control family,Control,Male,23,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,46,Negative,Negative
+DDUIC-009,DDUIC-009-F03,Index family,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,9221971,Positive,opened,No,No,No,68,Positive,Negative
+DDUIC-009,DDUIC-009-F02,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,68,Negative,Negative
+DDUIC-009,DDUIC-009-F01,Index,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,566964,Positive,opened,No,No,No,0,Positive,Positive
+DDUIC-009-C1,DDUIC-009-C1-F01,Control,Control,Male,22,Positive,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,9526,Positive,,No,No,No,52,Negative,Negative
+DDUIC-009-C2,DDUIC-009-C2-F01,Index,Case,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,228660,Positive,closed,No,Yes,No,52,Positive,Negative
+DDUIC-009-C2,DDUIC-009-C2-F02,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,Yes,No,52,Negative,Negative
+DDUIC-010,DDUIC-010-F01,Index,Case,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,566964,Positive,opened,No,Yes,No,0,Positive,Positive
+DDUIC-010-C1,DDUIC-010-C1-F01,Index,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,No,DDU,104993,Positive,closed,No,No,No,102,Positive,Negative
+DDUIC-010-C1,DDUIC-010-C1-F02,Index family,Case,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Outdoor An. stephensi and/or Ae. aegypti,Positive,Positive,No,DDU,0,Negative,closed,No,No,No,0,Positive,Positive
+DDUIC-012,DDUIC-012-F01,Index,Case,Male,21,Positive,Above 15 Years,Yes,pond,No,Positive,Negative,Negative,Positive,No,DDU,25202,Positive,closed,No,No,No,0,Positive,Positive
+DDUIC-012,DDUIC-012-F02,Index family,Case,Male,22,Positive,Above 15 Years,No,pond,No,Positive,Negative,Negative,Positive,No,DDU,36901,Positive,closed,No,No,No,,Positive,Negative
+DDUIC-012-C1,DDUIC-012-C1-F02,Control family,Control,Male,23,Negative,Above 15 Years,No,pond,No,Positive,Negative,Negative,Positive,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-012-C1,DDUIC-012-C1-F01,Control,Control,Male,23,Negative,Above 15 Years,No,pond,No,Positive,Negative,Negative,Positive,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-012-C2,DDUIC-012-C2-F01,Control,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-012-C2,DDUIC-012-C2-F02,Control family,Control,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Positive
+DDUIC-012-C3,DDUIC-012-C3-F01,Control,Control,Male,26,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,,DDU,0,Negative,,,,,0,Negative,Negative
+DDUIC-013,DDUIC-013-F01,Index,Case,Male,21,Positive,Above 15 Years,No,pond,,Positive,Negative,Negative,Positive,,DDU,188227,Positive,,,,,0,Positive,Positive
+DDUIC-013-C1,DDUIC-013-C1-F01,Control,Control,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,18222,Positive,closed,No,No,Yes,,Negative,Negative
+DDUIC-013-C1,DDUIC-013-C1-F02,Control family,Control,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,7349,Positive,closed,No,No,Yes,87,Negative,Negative
+DDUIC-013-C2,DDUIC-013-C2-F01,Control,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,Yes,DDU,0,Negative,,No,Yes,Yes,87,Negative,Negative
+DDUIC-013-C3,DDUIC-013-C3-F01,Index,Case,Male,27,Positive,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,384187,Positive,closed,No,No,Yes,0,Positive,Negative
+DDUIC-013-C3,DDUIC-013-C3-F02,Index family,Case,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-013-C3,DDUIC-013-C3-F03,Index family,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Positive
+DDUIC-014,DDUIC-014-F02,Index family,Case,Male,23,Positive,Above 15 Years,Yes,pond,No,Positive,Negative,Negative,Positive,No,DDU,0,Negative,closed,No,No,No,52,Negative,Positive
+DDUIC-014,DDUIC-014-F03,Index family,Case,Male,22,Positive,Above 15 Years,Yes,pond,No,Positive,Negative,Negative,Positive,No,DDU,0,Negative,closed,No,No,No,39,Negative,Positive
+DDUIC-014,DDUIC-014-F01,Index,Case,Male,22,Positive,Above 15 Years,No,pond,No,Positive,Negative,Negative,Positive,No,DDU,25829144,Positive,closed,No,No,No,52,Positive,Positive
+DDUIC-014-C1,DDUIC-014-C1-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,56,Negative,Negative
+DDUIC-014-C1,DDUIC-014-C1-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,56,Negative,Negative
+DDUIC-014-C2,DDUIC-014-C2-F01,Control,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,56,Negative,Negative
+DDUIC-015,DDUIC-015-F01,Index,Case,Male,22,Positive,Above 15 Years,No,pond,No,Positive,Negative,Negative,Positive,No,DDU,778007,Positive,closed,No,Yes,No,86,Positive,Positive
+DDUIC-015-C1,DDUIC-015-C1-F02,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,0,Negative,closed,No,No,No,46,Negative,Negative
+DDUIC-015-C1,DDUIC-015-C1-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-015-C2,DDUIC-015-C2-F01,Control,Control,Male,23,Positive,Above 15 Years,No,pond,No,Positive,Negative,Negative,Positive,No,DDU,25202,Positive,closed,No,No,No,46,Negative,Negative
+DDUIC-015-C3,DDUIC-015-C3-F02,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,86,Negative,Negative
+DDUIC-015-C3,DDUIC-015-C3-F03,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,86,Negative,Negative
+DDUIC-015-C3,DDUIC-015-C3-F01,Control,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-016,DDUIC-016-F02,Index family,Case,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,0,Negative,opened,No,Yes,No,126,Negative,Negative
+DDUIC-016,DDUIC-016-F01,Index,Case,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,3572,Positive,opened,No,Yes,No,126,Negative,Positive
+DDUIC-016,DDUIC-016-F03,Index family,Case,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,0,Negative,opened,No,Yes,No,126,Negative,Negative
+DDUIC-016-C1,DDUIC-016-C1-F01,Index,Case,Male,21,Positive,Above 15 Years,Yes,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,32412,Positive,closed,No,No,No,126,Positive,Negative
+DDUIC-016-C1,DDUIC-016-C1-F02,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Indoor An. stephensi,Positive,Positive,No,DDU,0,Negative,closed,No,No,No,126,Negative,Negative
+DDUIC-016-C2,DDUIC-016-C2-F01,Control,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,No,126,Negative,Negative
+DDUIC-016-C2,DDUIC-016-C2-F02,Control family,Control,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,1822210,Positive,opened,No,Yes,No,56,Positive,Positive
+DDUIC-016-C2,DDUIC-016-C2-F03,Control family,Control,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,711,Positive,opened,No,Yes,No,56,Negative,Negative
+DDUIC-017,DDUIC-017-F04,Index family,Case,Male,25,Positive,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,46,Negative,Positive
+DDUIC-017,DDUIC-017-F01,Index,Case,Male,23,Positive,Above 15 Years,Yes,,No,Negative,Negative,Negative,Negative,No,DDU,384187,Positive,closed,No,No,No,46,Positive,Positive
+DDUIC-017,DDUIC-017-F03,Index family,Case,Male,23,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,46,Negative,Negative
+DDUIC-017,DDUIC-017-F02,Index family,Case,Male,22,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,46,Negative,Negative
+DDUIC-017-C1,DDUIC-017-C1-F01,Control,Control,Male,24,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-017-C1,DDUIC-017-C1-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-017-C1,DDUIC-017-C1-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-017-C1,DDUIC-017-C1-F05,Control family,Control,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,1790966,Positive,closed,No,No,No,39,Positive,Negative
+DDUIC-017-C1,DDUIC-017-C1-F04,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-017-C2,DDUIC-017-C2-F03,Control family,Control,Male,19,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,39,Negative,Negative
+DDUIC-017-C2,DDUIC-017-C2-F01,Control,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,39,Negative,Negative
+DDUIC-017-C2,DDUIC-017-C2-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,39,Negative,Negative
+DDUIC-017-C3,DDUIC-017-C3-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,22,Negative,Negative
+DDUIC-017-C3,DDUIC-017-C3-F06,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,46,Negative,Negative
+DDUIC-017-C3,DDUIC-017-C3-F05,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,46,Negative,Negative
+DDUIC-017-C3,DDUIC-017-C3-F04,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,22,Negative,Negative
+DDUIC-017-C3,DDUIC-017-C3-F01,Control,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,39,Negative,Negative
+DDUIC-017-C3,DDUIC-017-C3-F03,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,22,Negative,Negative
+DDUIC-018,DDUIC-018-F01,Index,Case,Male,23,Positive,Above 15 Years,No,stagnant water,No,Positive,Negative,Negative,Positive,No,DDU,734907,Positive,closed,No,No,No,126,Positive,Positive
+DDUIC-018,DDUIC-018-F02,Index family,Case,Male,22,Negative,Above 15 Years,No,stagnant water,No,Positive,Negative,Negative,Positive,No,DDU,0,Negative,closed,No,No,No,37,Negative,Negative
+DDUIC-018,DDUIC-018-F04,Index family,Case,Male,20,Negative,Above 15 Years,No,stagnant water,No,Positive,Negative,Negative,Positive,No,DDU,0,Negative,closed,No,No,No,37,Negative,Negative
+DDUIC-018,DDUIC-018-F03,Index family,Case,Male,20,Negative,Above 15 Years,No,stagnant water,No,Positive,Negative,Negative,Positive,No,DDU,0,Negative,closed,No,No,No,37,Negative,Negative
+DDUIC-018-C1,DDUIC-018-C1-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-018-C1,DDUIC-018-C1-F02,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-018-C1,DDUIC-018-C1-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-018-C1,DDUIC-018-C1-F04,Control family,Control,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,676943,Positive,closed,No,No,Yes,0,Positive,Positive
+DDUIC-018-C2,DDUIC-018-C2-F04,Control family,Control,Male,19,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,56,Negative,Negative
+DDUIC-018-C2,DDUIC-018-C2-F01,Control,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,56,Negative,Negative
+DDUIC-018-C2,DDUIC-018-C2-F02,Control family,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,56,Negative,Negative
+DDUIC-018-C2,DDUIC-018-C2-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,56,Negative,Negative
+DDUIC-018-C3,DDUIC-018-C3-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,126,Negative,Negative
+DDUIC-018-C3,DDUIC-018-C3-F01,Control,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,126,Negative,Negative
+DDUIC-018-C3,DDUIC-018-C3-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,126,Negative,Negative
+DDUIC-019,DDUIC-019-F05,Index family,Case,Male,25,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,46,Negative,Negative
+DDUIC-019,DDUIC-019-F01,Index,Case,Male,20,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,3968499,Positive,closed,No,No,No,86,Positive,Positive
+DDUIC-019,DDUIC-019-F02,Index family,Case,Male,24,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,86,Negative,Negative
+DDUIC-019,DDUIC-019-F06,Index family,Case,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,46,Negative,Negative
+DDUIC-019,DDUIC-019-F03,Index family,Case,Male,23,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,34857,Positive,closed,No,No,No,46,Negative,Positive
+DDUIC-019,DDUIC-019-F04,Index family,Case,Male,25,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,46,Negative,Negative
+DDUIC-019-C1,DDUIC-019-C1-F05,Index family,Case,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,81,Negative,Negative
+DDUIC-019-C1,DDUIC-019-C1-F04,Index family,Case,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,81,Negative,Negative
+DDUIC-019-C1,DDUIC-019-C1-F02,Index family,Case,Male,20,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,1537,Positive,closed,No,No,No,81,Negative,Negative
+DDUIC-019-C1,DDUIC-019-C1-F03,Index family,Case,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,81,Negative,Negative
+DDUIC-019-C1,DDUIC-019-C1-F01,Index,Case,Male,21,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,81,Positive,Negative
+DDUIC-019-C2,DDUIC-019-C2-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,,No,86,Negative,Negative
+DDUIC-019-C2,DDUIC-019-C2-F03,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,,No,86,Negative,Negative
+DDUIC-019-C2,DDUIC-019-C2-F01,Control,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,,No,81,Negative,Negative
+DDUIC-019-C2,DDUIC-019-C2-F04,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,,No,86,Negative,Negative
+DDUIC-020,DDUIC-020-F01,Index,Case,Male,20,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,165327,Positive,closed,No,No,Yes,86,Positive,Positive
+DDUIC-020,DDUIC-020-F03,Index family,Case,Male,24,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,119536,Positive,closed,No,No,Yes,86,Negative,Negative
+DDUIC-020,DDUIC-020-F02,Index family,Case,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,86,Negative,Negative
+DDUIC-020-C1,DDUIC-020-C1-F02,Control family,Control,Male,20,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,2039037,Positive,opened,No,No,Yes,0,Positive,Positive
+DDUIC-020-C1,DDUIC-020-C1-F01,Control,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-020-C1,DDUIC-020-C1-F03,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-020-C1,DDUIC-020-C1-F04,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,126,Negative,Negative
+DDUIC-020-C2,DDUIC-020-C2-F04,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,126,Negative,Negative
+DDUIC-020-C2,DDUIC-020-C2-F03,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,126,Negative,Negative
+DDUIC-020-C2,DDUIC-020-C2-F01,Control,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,126,Negative,Negative
+DDUIC-020-C2,DDUIC-020-C2-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,126,Negative,Negative
+DDUIC-020-C3,DDUIC-020-C3-F06,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,86,Negative,Negative
+DDUIC-020-C3,DDUIC-020-C3-F04,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,86,Negative,Negative
+DDUIC-020-C3,DDUIC-020-C3-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,126,Negative,Negative
+DDUIC-020-C3,DDUIC-020-C3-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,126,Negative,Negative
+DDUIC-020-C3,DDUIC-020-C3-F01,Control,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,126,Negative,Negative
+DDUIC-020-C3,DDUIC-020-C3-F05,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,86,Negative,Negative
+DDUIC-021,DDUIC-021-F02,Index family,Case,Male,24,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-021,DDUIC-021-F03,Index family,Case,Male,23,,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,,Negative
+DDUIC-021,DDUIC-021-F01,Index,Case,Male,24,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,604958,Positive,closed,No,No,No,0,Positive,Positive
+DDUIC-021-C1,DDUIC-021-C1-F01,Index,Case,Male,23,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,310831,Positive,opened,No,No,Yes,0,Positive,Negative
+DDUIC-021-C1,DDUIC-021-C1-F03,Index family,Case,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-021-C1,DDUIC-021-C1-F04,Index family,Case,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,52,Negative,Negative
+DDUIC-021-C1,DDUIC-021-C1-F02,Index family,Case,Male,22,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,8775,Positive,opened,No,No,Yes,0,Negative,Negative
+DDUIC-021-C2,DDUIC-021-C2-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,52,Negative,Negative
+DDUIC-021-C2,DDUIC-021-C2-F01,Control,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,52,Negative,Negative
+DDUIC-021-C2,DDUIC-021-C2-F03,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,52,Negative,Negative
+DDUIC-021-C3,DDUIC-021-C3-F01,Control,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,43,Negative,Negative
+DDUIC-021-C3,DDUIC-021-C3-F02,Control family,Control,Male,24,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,51440,Positive,closed,No,No,Yes,43,Positive,Negative
+DDUIC-021-C3,DDUIC-021-C3-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,43,Negative,Negative
+DDUIC-022,DDUIC-022-F02,Index family,Case,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,87,Negative,Negative
+DDUIC-022,DDUIC-022-F01,Index,Case,Male,29,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,3719270,Positive,closed,No,No,Yes,87,Positive,Positive
+DDUIC-022,DDUIC-022-F04,Index family,Case,Male,23,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,87,Negative,Negative
+DDUIC-022,DDUIC-022-F03,Index family,Case,Male,22,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,87,Negative,Positive
+DDUIC-022-C1,DDUIC-022-C1-F02,Control family,Control,Male,19,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,126,Negative,Negative
+DDUIC-022-C1,DDUIC-022-C1-F01,Control,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,126,Negative,Negative
+DDUIC-022-C1,DDUIC-022-C1-F03,Control family,Control,Male,22,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,126,Negative,Negative
+DDUIC-022-C2,DDUIC-022-C2-F02,Control family,Control,Male,19,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,22,Negative,Negative
+DDUIC-022-C2,DDUIC-022-C2-F01,Control,Control,Male,20,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,20583,Positive,closed,No,No,No,126,Negative,Negative
+DDUIC-022-C2,DDUIC-022-C2-F03,Control family,Control,Male,19,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,22,Negative,Negative
+DDUIC-022-C3,DDUIC-022-C3-F05,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,87,Negative,Negative
+DDUIC-022-C3,DDUIC-022-C3-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,87,Negative,Negative
+DDUIC-022-C3,DDUIC-022-C3-F01,Control,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,22,Negative,Negative
+DDUIC-022-C3,DDUIC-022-C3-F03,Control family,Control,Male,19,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,87,Negative,Negative
+DDUIC-022-C3,DDUIC-022-C3-F04,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,87,Negative,Negative
+DDUIC-023,DDUIC-023-F01,Index,Case,Male,22,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,1317508,Positive,closed,No,No,No,84,Positive,Positive
+DDUIC-023,DDUIC-023-F03,Index family,Case,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,84,Negative,Negative
+DDUIC-023,DDUIC-023-F02,Index family,Case,Male,24,Negative,Above 15 Years,Yes,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,84,Negative,Negative
+DDUIC-023-C1,DDUIC-023-C1-F04,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,51,Negative,Negative
+DDUIC-023-C1,DDUIC-023-C1-F02,Control family,Control,Male,21,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-023-C1,DDUIC-023-C1-F01,Control,Control,Male,23,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-023-C1,DDUIC-023-C1-F05,Control family,Control,Male,22,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,51,Negative,Negative
+DDUIC-023-C1,DDUIC-023-C1-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-023-C2,DDUIC-023-C2-F02,Control family,Control,Male,19,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,51,Negative,Negative
+DDUIC-023-C2,DDUIC-023-C2-F04,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,84,Negative,Negative
+DDUIC-023-C2,DDUIC-023-C2-F05,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,84,Negative,Negative
+DDUIC-023-C2,DDUIC-023-C2-F03,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,51,Negative,Negative
+DDUIC-023-C2,DDUIC-023-C2-F01,Control,Control,Male,20,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,51,Negative,Negative
+DDUIC-023-C3,DDUIC-023-C3-F02,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,84,Negative,Negative
+DDUIC-023-C3,DDUIC-023-C3-F03,Control family,Control,Male,26,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,84,Negative,Negative
+DDUIC-023-C3,DDUIC-023-C3-F01,Control,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,84,Negative,Negative
+DDUIC-024,DDUIC-024-F02,Index family,Case,Male,24,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-024,DDUIC-024-F04,Index family,Case,Male,23,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-024,DDUIC-024-F03,Index family,Case,Male,23,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-024,DDUIC-024-F01,Index,Case,Male,24,Positive,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DDU,200841,Positive,closed,No,No,No,0,Positive,Positive
+DDUIC-024-C1,DDUIC-024-C1-F01,Control,Control,Male,22,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,2440,Positive,closed,No,No,Yes,0,Negative,Negative
+DDUIC-024-C1,DDUIC-024-C1-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-024-C1,DDUIC-024-C1-F03,Control family,Control,Male,23,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-024-C2,DDUIC-024-C2-F02,Control family,Control,Male,23,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,,No,0,Negative,Negative
+DDUIC-024-C2,DDUIC-024-C2-F03,Control family,Control,Male,23,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,,No,0,Negative,Negative
+DDUIC-024-C2,DDUIC-024-C2-F01,Control,Control,Male,22,Positive,Above 15 Years,Yes,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,22136,Positive,closed,No,,No,0,Negative,Negative
+DDUIC-024-C2,DDUIC-024-C2-F05,Control family,Control,Male,23,Positive,Above 15 Years,Yes,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,1275,Positive,closed,No,,No,37,Negative,Negative
+DDUIC-024-C2,DDUIC-024-C2-F04,Control family,Control,Male,24,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,,No,0,Negative,Negative
+DDUIC-024-C3,DDUIC-024-C3-F02,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,37,Negative,Negative
+DDUIC-024-C3,DDUIC-024-C3-F05,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-024-C3,DDUIC-024-C3-F03,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,37,Negative,Negative
+DDUIC-024-C3,DDUIC-024-C3-F04,Control family,Control,Male,21,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,1499999,Positive,closed,No,No,No,37,Positive,Positive
+DDUIC-024-C3,DDUIC-024-C3-F01,Control,Control,Male,22,Negative,Above 15 Years,Yes,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,37,Negative,Negative
+DDUIC-025,DDUIC-025-F01,Index,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,3485688,Positive,closed,No,No,Yes,50,Positive,Positive
+DDUIC-025,DDUIC-025-F03,Index family,Case,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-025,DDUIC-025-F04,Index family,Case,Male,24,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-025,DDUIC-025-F02,Index family,Case,Male,24,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-025-C1,DDUIC-025-C1-F02,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,,No,No,No,0,Negative,Negative
+DDUIC-025-C1,DDUIC-025-C1-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,,No,No,No,0,Negative,Negative
+DDUIC-025-C1,DDUIC-025-C1-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,,No,No,No,0,Negative,Negative
+DDUIC-025-C1,DDUIC-025-C1-F04,Control family,Control,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,23620,Positive,,No,No,No,0,Negative,Negative
+DDUIC-025-C2,DDUIC-025-C2-F04,Control family,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,46,Negative,Negative
+DDUIC-025-C2,DDUIC-025-C2-F02,Control family,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,46,Negative,Negative
+DDUIC-025-C2,DDUIC-025-C2-F05,Control family,Control,Male,50,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,50,Negative,Negative
+DDUIC-025-C2,DDUIC-025-C2-F03,Control family,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,46,Negative,Negative
+DDUIC-025-C2,DDUIC-025-C2-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,46,Negative,Negative
+DDUIC-025-C3,DDUIC-025-C3-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,50,Negative,Negative
+DDUIC-025-C3,DDUIC-025-C3-F02,Control family,Control,Male,24,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,50,Negative,Negative
+DDUIC-025-C3,DDUIC-025-C3-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,50,Negative,Negative
+DDUIC-026,DDUIC-026-F03,Index family,Case,Male,23,Positive,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,127547,Positive,closed,No,No,No,0,Positive,Positive
+DDUIC-026,DDUIC-026-F01,Index,Case,Male,22,Positive,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,7114556,Positive,closed,No,No,No,87,Positive,Positive
+DDUIC-026,DDUIC-026-F02,Index family,Case,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-026,DDUIC-026-F04,Index family,Case,Male,22,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-026-C1,DDUIC-026-C1-F02,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-026-C1,DDUIC-026-C1-F03,Control family,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-026-C1,DDUIC-026-C1-F01,Control,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,Yes,0,Negative,Negative
+DDUIC-026-C2,DDUIC-026-C2-F04,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-026-C2,DDUIC-026-C2-F03,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-026-C2,DDUIC-026-C2-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-026-C2,DDUIC-026-C2-F01,Control,Control,Male,22,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,0,Negative,Negative
+DDUIC-026-C2,DDUIC-026-C2-F05,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,closed,No,No,No,87,Negative,Negative
+DDUIC-026-C3,DDUIC-026-C3-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,87,Negative,Negative
+DDUIC-026-C3,DDUIC-026-C3-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,87,Negative,Negative
+DDUIC-026-C3,DDUIC-026-C3-F01,Control,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,87,Negative,Negative
+DDUIC-027,DDUIC-027-F02,Index family,Case,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,39,Negative,Negative
+DDUIC-027,DDUIC-027-F05,Index family,Case,Male,24,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,864,Positive,opened,No,No,No,46,Negative,Negative
+DDUIC-027,DDUIC-027-F01,Index,Case,Male,21,Positive,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,127547,Positive,opened,No,No,No,39,Positive,Positive
+DDUIC-027,DDUIC-027-F03,Index family,Case,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-027,DDUIC-027-F04,Index family,Case,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-027,DDUIC-027-F06,Index family,Case,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-027-C1,DDUIC-027-C1-F02,Control family,Control,Male,22,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,22,Negative,Negative
+DDUIC-027-C1,DDUIC-027-C1-F03,Control family,Control,Male,26,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,22,Negative,Negative
+DDUIC-027-C1,DDUIC-027-C1-F04,Control family,Control,Male,23,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,22,Negative,Negative
+DDUIC-027-C1,DDUIC-027-C1-F01,Control,Control,Male,22,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,22,Negative,Negative
+DDUIC-027-C2,DDUIC-027-C2-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,22,Negative,Negative
+DDUIC-027-C2,DDUIC-027-C2-F01,Control,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,22,Negative,Negative
+DDUIC-027-C2,DDUIC-027-C2-F03,Control family,Control,Male,25,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-027-C2,DDUIC-027-C2-F04,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-027-C3,DDUIC-027-C3-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-027-C3,DDUIC-027-C3-F04,Control family,Control,Male,29,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,39,Negative,Negative
+DDUIC-027-C3,DDUIC-027-C3-F01,Control,Control,Male,26,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-027-C3,DDUIC-027-C3-F03,Control family,Control,Male,24,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,39,Negative,Negative
+DDUIC-028,DDUIC-028-F03,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,885,Negative,Negative
+DDUIC-028,DDUIC-028-F01,Index,Case,Male,22,Positive,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,384187,Positive,opened,No,No,Yes,885,Positive,Positive
+DDUIC-028,DDUIC-028-F02,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,885,Negative,Negative
+DDUIC-028-C1,DDUIC-028-C1-F03,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,237,Negative,Negative
+DDUIC-028-C1,DDUIC-028-C1-F04,Control family,Control,Male,21,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,84,Negative,Negative
+DDUIC-028-C1,DDUIC-028-C1-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,237,Negative,Negative
+DDUIC-028-C1,DDUIC-028-C1-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,237,Negative,Negative
+DDUIC-028-C2,DDUIC-028-C2-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,,84,Negative,Negative
+DDUIC-028-C2,DDUIC-028-C2-F01,Control,Control,Male,20,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,,84,Negative,Negative
+DDUIC-028-C2,DDUIC-028-C2-F04,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,,84,Negative,Negative
+DDUIC-028-C2,DDUIC-028-C2-F06,Control family,Control,Male,23,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,,84,Negative,Negative
+DDUIC-028-C2,DDUIC-028-C2-F05,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,,84,Negative,Negative
+DDUIC-028-C2,DDUIC-028-C2-F03,Control family,Control,Male,19,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,,84,Negative,Negative
+DDUIC-028-C3,DDUIC-028-C3-F02,Index family,Case,Male,23,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,,Yes,84,Negative,Negative
+DDUIC-028-C3,DDUIC-028-C3-F03,Index family,Case,Male,22,Positive,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,836701,Positive,opened,No,,Yes,84,Negative,Positive
+DDUIC-028-C3,DDUIC-028-C3-F01,Index,Case,Male,22,Positive,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,2213631,Positive,opened,No,,Yes,84,Positive,Negative
+DDUIC-029,DDUIC-029-F05,Index family,Case,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,86,Negative,Negative
+DDUIC-029,DDUIC-029-F01,Index,Case,Male,23,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,1405797,Positive,opened,No,No,No,0,Positive,Positive
+DDUIC-029,DDUIC-029-F03,Index family,Case,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,86,Negative,Negative
+DDUIC-029,DDUIC-029-F02,Index family,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,71146,Positive,opened,No,No,No,86,Negative,Positive
+DDUIC-029,DDUIC-029-F04,Index family,Case,Male,20,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,2143,Positive,opened,No,No,No,86,Negative,Negative
+DDUIC-029-C1,DDUIC-029-C1-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Negative
+DDUIC-029-C1,DDUIC-029-C1-F05,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Negative
+DDUIC-029-C1,DDUIC-029-C1-F01,Control,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Negative
+DDUIC-029-C1,DDUIC-029-C1-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Negative
+DDUIC-029-C1,DDUIC-029-C1-F04,Control family,Control,Male,19,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Negative
+DDUIC-029-C2,DDUIC-029-C2-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,22,Negative,Negative
+DDUIC-029-C2,DDUIC-029-C2-F03,Control family,Control,Male,24,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,604958,Positive,opened,No,No,No,22,Positive,Positive
+DDUIC-029-C2,DDUIC-029-C2-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,22,Negative,Negative
+DDUIC-029-C3,DDUIC-029-C3-F01,Index,Case,Male,24,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,5144021,Positive,opened,No,No,Yes,22,Positive,Negative
+DDUIC-029-C3,DDUIC-029-C3-F04,Index family,Case,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-029-C3,DDUIC-029-C3-F02,Index family,Case,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,22,Negative,Negative
+DDUIC-029-C3,DDUIC-029-C3-F03,Index family,Case,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-030,DDUIC-030-F03,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-030,DDUIC-030-F04,Index family,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,7349,Positive,opened,No,No,Yes,0,Negative,Negative
+DDUIC-030,DDUIC-030-F02,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-030,DDUIC-030-F05,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-030,DDUIC-030-F06,Index family,Case,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-030,DDUIC-030-F01,Index,Case,Male,20,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,2689135,Positive,opened,No,No,Yes,126,Positive,Positive
+DDUIC-030-C1,DDUIC-030-C1-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,No,92,Negative,Negative
+DDUIC-030-C1,DDUIC-030-C1-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,No,92,Negative,Negative
+DDUIC-030-C1,DDUIC-030-C1-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,No,92,Negative,Negative
+DDUIC-030-C1,DDUIC-030-C1-F04,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,No,92,Negative,Negative
+DDUIC-030-C2,DDUIC-030-C2-F03,Index family,Case,Male,20,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,2361970,Positive,opened,No,No,Yes,0,Positive,Negative
+DDUIC-030-C2,DDUIC-030-C2-F01,Index,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,892769,Positive,opened,No,No,Yes,92,Positive,Negative
+DDUIC-030-C2,DDUIC-030-C2-F05,Index family,Case,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-030-C2,DDUIC-030-C2-F04,Index family,Case,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-030-C2,DDUIC-030-C2-F02,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,92,Negative,Negative
+DDUIC-030-C3,DDUIC-030-C3-F02,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,Yes,126,Negative,Negative
+DDUIC-030-C3,DDUIC-030-C3-F03,Index family,Case,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,Yes,126,Negative,Negative
+DDUIC-030-C3,DDUIC-030-C3-F04,Index family,Case,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,Yes,126,Negative,Negative
+DDUIC-030-C3,DDUIC-030-C3-F05,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,Yes,Yes,126,Negative,Negative
+DDUIC-030-C3,DDUIC-030-C3-F01,Index,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,2689135,Positive,opened,No,Yes,Yes,0,Positive,Negative
+DDUIC-031,DDUIC-031-F04,Index family,Case,Male,22,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,22,Negative,Negative
+DDUIC-031,DDUIC-031-F01,Index,Case,Male,19,Positive,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,8642804,Positive,opened,No,No,No,22,Positive,Positive
+DDUIC-031,DDUIC-031-F03,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,22,Negative,Negative
+DDUIC-031,DDUIC-031-F02,Index family,Case,Male,20,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,22,Negative,Negative
+DDUIC-031-C1,DDUIC-031-C1-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,81,Negative,Negative
+DDUIC-031-C1,DDUIC-031-C1-F03,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,81,Negative,Negative
+DDUIC-031-C1,DDUIC-031-C1-F01,Control,Control,Male,22,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,81,Negative,Negative
+DDUIC-031-C1,DDUIC-031-C1-F04,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,81,Negative,Negative
+DDUIC-031-C2,DDUIC-031-C2-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-031-C2,DDUIC-031-C2-F04,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-031-C2,DDUIC-031-C2-F02,Control family,Control,Male,19,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-031-C2,DDUIC-031-C2-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-031-C3,DDUIC-031-C3-F01,Control,Control,Male,23,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,,46,Negative,Negative
+DDUIC-031-C3,DDUIC-031-C3-F02,Control family,Control,Male,19,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,,46,Negative,Negative
+DDUIC-031-C3,DDUIC-031-C3-F03,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,,46,Negative,Negative
+DDUIC-031-C3,DDUIC-031-C3-F04,Control family,Control,Male,24,Negative,Above 15 Years,No,stagnant water,,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,,46,Negative,Negative
+DDUIC-032,DDUIC-032-F01,Index,Case,Male,22,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,4783167,Positive,opened,No,No,No,39,Positive,Positive
+DDUIC-032,DDUIC-032-F04,Index family,Case,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,87,Negative,Negative
+DDUIC-032,DDUIC-032-F03,Index family,Case,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,87,Negative,Negative
+DDUIC-032,DDUIC-032-F02,Index family,Case,Male,19,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,87,Negative,Negative
+DDUIC-032-C1,DDUIC-032-C1-F04,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,75,Negative,Negative
+DDUIC-032-C1,DDUIC-032-C1-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,75,Negative,Negative
+DDUIC-032-C1,DDUIC-032-C1-F03,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,75,Negative,Negative
+DDUIC-032-C1,DDUIC-032-C1-F01,Control,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,75,Negative,Negative
+DDUIC-032-C2,DDUIC-032-C2-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,22,Negative,Negative
+DDUIC-032-C2,DDUIC-032-C2-F03,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,22,Negative,Negative
+DDUIC-032-C2,DDUIC-032-C2-F04,Control family,Control,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,1234765,Positive,opened,No,No,Yes,22,Positive,Negative
+DDUIC-032-C2,DDUIC-032-C2-F01,Control,Control,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,22,Negative,Negative
+DDUIC-032-C3,DDUIC-032-C3-F02,Index family,Case,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,39,Negative,Negative
+DDUIC-032-C3,DDUIC-032-C3-F01,Index,Case,Male,19,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,2869335,Positive,opened,No,No,Yes,39,Positive,Negative
+DDUIC-032-C3,DDUIC-032-C3-F03,Index family,Case,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,600216,Positive,opened,No,No,Yes,39,Positive,Positive
+DDUIC-033,DDUIC-033-F03,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-033,DDUIC-033-F02,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-033,DDUIC-033-F04,Index family,Case,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-033,DDUIC-033-F01,Index,Case,Male,23,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,4820961,Positive,opened,No,No,No,46,Positive,Positive
+DDUIC-033-C1,DDUIC-033-C1-F03,Index family,Case,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-033-C1,DDUIC-033-C1-F02,Index family,Case,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-033-C1,DDUIC-033-C1-F04,Index family,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,1050,Positive,opened,No,No,Yes,0,Negative,Negative
+DDUIC-033-C1,DDUIC-033-C1-F01,Index,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,58565,Positive,opened,No,No,Yes,0,Positive,Negative
+DDUIC-033-C1,DDUIC-033-C1-F05,Index family,Case,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,0,Negative,Negative
+DDUIC-033-C2,DDUIC-033-C2-F03,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Negative
+DDUIC-033-C2,DDUIC-033-C2-F04,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Negative
+DDUIC-033-C2,DDUIC-033-C2-F05,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,126,Negative,Negative
+DDUIC-033-C2,DDUIC-033-C2-F01,Control,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Negative
+DDUIC-033-C2,DDUIC-033-C2-F02,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Negative
+DDUIC-033-C2,DDUIC-033-C2-F06,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,126,Negative,Negative
+DDUIC-033-C3,DDUIC-033-C3-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,126,Negative,Negative
+DDUIC-033-C3,DDUIC-033-C3-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,126,Negative,Negative
+DDUIC-033-C3,DDUIC-033-C3-F05,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-033-C3,DDUIC-033-C3-F06,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-033-C3,DDUIC-033-C3-F01,Control,Control,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,126,Negative,Negative
+DDUIC-033-C3,DDUIC-033-C3-F04,Control family,Control,Male,19,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,126,Negative,Negative
+DDUIC-034,DDUIC-034-F03,Index family,Case,Male,22,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,84,Positive,Negative
+DDUIC-034,DDUIC-034-F02,Index family,Case,Male,24,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,84,Negative,Negative
+DDUIC-034,DDUIC-034-F01,Index,Case,Male,23,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,1234765,Positive,opened,No,No,Yes,84,Positive,Positive
+DDUIC-034-C1,DDUIC-034-C1-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-034-C1,DDUIC-034-C1-F03,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-034-C1,DDUIC-034-C1-F01,Control,Control,Male,24,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-034-C1,DDUIC-034-C1-F04,Control family,Control,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,39,Negative,Negative
+DDUIC-034-C2,DDUIC-034-C2-F01,Control,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,39,Negative,Negative
+DDUIC-034-C2,DDUIC-034-C2-F02,Control family,Control,Male,24,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,39,Negative,Negative
+DDUIC-034-C2,DDUIC-034-C2-F04,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,611,Negative,Negative
+DDUIC-034-C2,DDUIC-034-C2-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,39,Negative,Negative
+DDUIC-034-C3,DDUIC-034-C3-F04,Control family,Control,Male,18,,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DDU,,,opened,No,No,No,84,,
+DDUIC-034-C3,DDUIC-034-C3-F01,Control,Control,Male,20,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,611,Negative,Negative
+DDUIC-034-C3,DDUIC-034-C3-F03,Control family,Control,Male,21,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,611,Negative,Negative
+DDUIC-034-C3,DDUIC-034-C3-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,611,Negative,Negative
+DDUIC-035,DDUIC-035-F04,Index family,Case,Male,19,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,86,Negative,Negative
+DDUIC-035,DDUIC-035-F01,Index,Case,Male,19,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,531358,Positive,opened,No,No,Yes,86,Positive,Positive
+DDUIC-035,DDUIC-035-F05,Index family,Case,Male,19,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,86,Negative,Negative
+DDUIC-035,DDUIC-035-F02,Index family,Case,Male,18,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,86,Negative,Negative
+DDUIC-035,DDUIC-035-F03,Index family,Case,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,86,Negative,Negative
+DDUIC-035-C1,DDUIC-035-C1-F05,Control family,Control,Male,19,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,87,Negative,Negative
+DDUIC-035-C1,DDUIC-035-C1-F02,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,87,Negative,Negative
+DDUIC-035-C1,DDUIC-035-C1-F01,Control,Control,Male,23,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,87,Negative,Negative
+DDUIC-035-C1,DDUIC-035-C1-F03,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,87,Negative,Negative
+DDUIC-035-C1,DDUIC-035-C1-F04,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,Yes,87,Negative,Negative
+DDUIC-035-C2,DDUIC-035-C2-F01,Control,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,125,Negative,Negative
+DDUIC-035-C2,DDUIC-035-C2-F04,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,125,Negative,Negative
+DDUIC-035-C2,DDUIC-035-C2-F02,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,125,Negative,Negative
+DDUIC-035-C2,DDUIC-035-C2-F03,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,125,Negative,Negative
+DDUIC-035-C3,DDUIC-035-C3-F02,Control family,Control,Male,22,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Positive
+DDUIC-035-C3,DDUIC-035-C3-F05,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Negative
+DDUIC-035-C3,DDUIC-035-C3-F06,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,86,Negative,Negative
+DDUIC-035-C3,DDUIC-035-C3-F04,Control family,Control,Male,22,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,111151,Positive,opened,No,No,No,0,Positive,Negative
+DDUIC-035-C3,DDUIC-035-C3-F03,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,0,Negative,Negative
+DDUIC-035-C3,DDUIC-035-C3-F01,Control,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,125,Negative,Negative
+DDUIC-036,DDUIC-036-F04,Index family,Case,Male,21,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,125,Negative,Negative
+DDUIC-036,DDUIC-036-F02,Index family,Case,Male,23,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,125,Negative,Negative
+DDUIC-036,DDUIC-036-F03,Index family,Case,Male,20,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,125,Negative,Negative
+DDUIC-036,DDUIC-036-F01,Index,Case,Male,20,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,3061613,Positive,opened,No,No,No,125,Positive,Positive
+DDUIC-036-C1,DDUIC-036-C1-F02,Control family,Control,Male,25,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,611,Negative,Negative
+DDUIC-036-C1,DDUIC-036-C1-F04,Control family,Control,Male,22,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,8928,Positive,opened,No,No,No,611,Negative,Negative
+DDUIC-036-C1,DDUIC-036-C1-F03,Control family,Control,Male,22,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,611,Negative,Negative
+DDUIC-036-C1,DDUIC-036-C1-F01,Control,Control,Male,25,Positive,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,611,Negative,Positive
+DDUIC-036-C2,DDUIC-036-C2-F02,Index family,Case,Male,22,Negative,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-036-C2,DDUIC-036-C2-F01,Index,Case,Male,21,Positive,Above 15 Years,No,pond,No,Negative,Negative,Negative,Negative,No,DDU,45182,Positive,opened,No,No,No,46,Positive,Negative
+DDUIC-036-C2,DDUIC-036-C2-F03,Index family,Case,Male,20,Negative,Above 15 Years,Yes,pond,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-036-C3,DDUIC-036-C3-F02,Control family,Control,Male,19,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-036-C3,DDUIC-036-C3-F01,Control,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-036-C3,DDUIC-036-C3-F03,Control family,Control,Male,21,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
+DDUIC-036-C3,DDUIC-036-C3-F04,Control family,Control,Male,20,Negative,Above 15 Years,No,stagnant water,No,Negative,Negative,Negative,Negative,No,DDU,0,Negative,opened,No,No,No,46,Negative,Negative
